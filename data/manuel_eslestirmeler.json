@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "sonGuncelleme": "2025-10-07T19:32:06.601Z",
+  "sonGuncelleme": "2025-10-07T19:32:17.500Z",
   "eslestirmeler": {
     "kofte": {
       "orijinalMetin": "köfte",
@@ -37,6 +37,13 @@
         "ketojenik_brokoli_corbasi.jpg"
       ],
       "eklemeTarihi": "2025-08-16T08:40:36.702Z"
+    },
+    "tavuk guvec": {
+      "orijinalMetin": "tavuk güveç",
+      "kartlar": [
+        "tavuk_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-10-07T19:32:15.830Z"
     }
   }
 }
