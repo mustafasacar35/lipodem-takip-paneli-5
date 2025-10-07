@@ -1,0 +1,492 @@
+[
+  {
+    "id": 14,
+    "isim": "ALEV KAYA",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-02T07:53:33.127Z"
+  },
+  {
+    "id": "aslihan_ozgur",
+    "isim": "ASLIHAN ÖZGÜR",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:54:02.727Z"
+  },
+  {
+    "id": 1753368154662,
+    "isim": "AYŞE KOYUNCU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:58:03.076Z"
+  },
+  {
+    "id": 1756892141471,
+    "isim": "AYŞEGÜL FAROOQ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:49:34.045Z"
+  },
+  {
+    "id": 26,
+    "isim": "BAHRİYE YEŞİM DEMİR",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:00:49.626Z"
+  },
+  {
+    "id": 1758967175048,
+    "isim": "BELGİN ALTINTAŞ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:36:05.761Z"
+  },
+  {
+    "id": 1754643407630,
+    "isim": "BENSU DANSIK",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:50:12.965Z"
+  },
+  {
+    "id": 21,
+    "isim": "BERİN KARADAĞ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:11:49.731Z"
+  },
+  {
+    "id": 1755786135649,
+    "isim": "BEYZA MUTLUBAŞ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:54:23.812Z"
+  },
+  {
+    "id": 1759823132552,
+    "isim": "ÇAĞLA SARISU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-07T15:37:33.939Z"
+  },
+  {
+    "id": 1757324016572,
+    "isim": "deneme",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-09-11T14:01:12.263Z"
+  },
+  {
+    "id": 1758182519427,
+    "isim": "DENİZ CAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:40:45.747Z"
+  },
+  {
+    "id": 1754324589056,
+    "isim": "DUDU ŞAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:50:52.576Z"
+  },
+  {
+    "id": 1755431420273,
+    "isim": "ECE ALGEL",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:58:19.518Z"
+  },
+  {
+    "id": 1755519160955,
+    "isim": "EDA NESİBE YAVUZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T15:57:39.789Z"
+  },
+  {
+    "id": 1758363414882,
+    "isim": "EDA TOPUZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:41:00.457Z"
+  },
+  {
+    "id": 1756892753290,
+    "isim": "EŞMEN KAYA ALPARSLAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:47:24.101Z"
+  },
+  {
+    "id": "fatma_kok_sarigoz",
+    "isim": "FATMA KÖK SARIGÖZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:02:54.455Z"
+  },
+  {
+    "id": "fi_gen_tezman",
+    "isim": "FİGEN TEZMAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:51:33.204Z"
+  },
+  {
+    "id": 1758006200062,
+    "isim": "FİLİZ DAĞTEKİN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:41:13.351Z"
+  },
+  {
+    "id": 1758261102105,
+    "isim": "GÜLCE  COŞKUN ŞENTÜRK",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:41:25.665Z"
+  },
+  {
+    "id": "gulden_ugur",
+    "isim": "GÜLDEN UĞUR",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:55:06.933Z"
+  },
+  {
+    "id": 5,
+    "isim": "HAFİZE TOK",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-06T10:09:29.186Z"
+  },
+  {
+    "id": 12,
+    "isim": "HATİCE OKTAŞ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-02T07:41:40.076Z"
+  },
+  {
+    "id": "hulya_kosar",
+    "isim": "HÜLYA KOŞAR",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T15:57:17.905Z"
+  },
+  {
+    "id": 1756392741234,
+    "isim": "MERAL GERÇEK",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:47:36.920Z"
+  },
+  {
+    "id": "meryem_karadag_unnu",
+    "isim": "MERYEM KARADAĞ ÜNNÜ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:04:27.969Z"
+  },
+  {
+    "id": 1754749185310,
+    "isim": "NEVİN ŞAHAL",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:52:15.038Z"
+  },
+  {
+    "id": 1758535184458,
+    "isim": "NURDAN DURAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:41:37.199Z"
+  },
+  {
+    "id": 1755786084102,
+    "isim": "ÖZLEM MAZIOĞLU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:55:23.448Z"
+  },
+  {
+    "id": 1756361169098,
+    "isim": "PAKİZE AKÇAY",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:47:49.226Z"
+  },
+  {
+    "id": 1755637379268,
+    "isim": "RABİA DERMAN SÖĞÜT",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T15:57:57.931Z"
+  },
+  {
+    "id": 1755637305672,
+    "isim": "RANA NUR GÜNDÜZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:00:03.162Z"
+  },
+  {
+    "id": 1753684609441,
+    "isim": "RUBERF YILMAZER",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T15:59:46.147Z"
+  },
+  {
+    "id": 1754647389858,
+    "isim": "SEDA SÜRGİT",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:52:51.424Z"
+  },
+  {
+    "id": "seda_sengun",
+    "isim": "SEDA ŞENGÜN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:05:44.571Z"
+  },
+  {
+    "id": "selma_tural",
+    "isim": "SELMA TURAL",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:56:03.571Z"
+  },
+  {
+    "id": 1754989193464,
+    "isim": "SELVER KURU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:53:28.717Z"
+  },
+  {
+    "id": 1758028246241,
+    "isim": "SEVAL BAŞÖZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:45:20.982Z"
+  },
+  {
+    "id": 24,
+    "isim": "SEVGİ DOĞAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:13:11.994Z"
+  },
+  {
+    "id": 1757654874094,
+    "isim": "ŞEHNAZE AYDOĞAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:47:10.347Z"
+  },
+  {
+    "id": 20,
+    "isim": "ŞENAY UZAKGİDER",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-02T07:34:17.121Z"
+  },
+  {
+    "id": "tuba_gul",
+    "isim": "TÜBA GÜL",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T16:06:55.323Z"
+  },
+  {
+    "id": 1758963337228,
+    "isim": "YAĞMUR GÜLMEZ",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:40:32.821Z"
+  },
+  {
+    "id": "yasemi_n_varlioglu",
+    "isim": "YASEMİN VARLIOĞLU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:56:54.592Z"
+  },
+  {
+    "id": 1757200250253,
+    "isim": "YELİZ ÖZEN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-07T08:13:14.223Z"
+  },
+  {
+    "id": 1755948454187,
+    "isim": "ZEYNEP ŞENTÜRK",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2025-10-03T14:57:19.864Z"
+  },
+  {
+    "id": 1754729971660,
+    "isim": "--- DR. ZELİHA BERBER",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-09T15:02:05.166Z"
+  },
+  {
+    "id": 27,
+    "isim": "BETÜL GENÇ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-16T07:49:59.731Z"
+  },
+  {
+    "id": 1753424223460,
+    "isim": "BETÜL TAŞDEMİR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-15T12:52:37.455Z"
+  },
+  {
+    "id": 33,
+    "isim": "DEFNE SERİNKEN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T10:26:33.350Z"
+  },
+  {
+    "id": 6,
+    "isim": "DERYA BAYINDIR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-24T07:58:37.624Z"
+  },
+  {
+    "id": 19,
+    "isim": "DİLEK DEĞERLİ ŞAHİN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T10:25:26.570Z"
+  },
+  {
+    "id": 11,
+    "isim": "EMİNE KAVALA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-16T07:50:28.076Z"
+  },
+  {
+    "id": "esi_n_karakus",
+    "isim": "ESİN KARAKUŞ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-27T10:03:24.271Z"
+  },
+  {
+    "id": 22,
+    "isim": "FADİME AKÇAY",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-27T10:04:23.340Z"
+  },
+  {
+    "id": 25,
+    "isim": "FİSUN YANAL",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-16T07:47:24.148Z"
+  },
+  {
+    "id": 29,
+    "isim": "HANIM AĞCA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T10:25:50.122Z"
+  },
+  {
+    "id": 9,
+    "isim": "HATİCE AYDIN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T10:27:11.020Z"
+  },
+  {
+    "id": 32,
+    "isim": "HATİCE KESER",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-15T12:52:54.078Z"
+  },
+  {
+    "id": 28,
+    "isim": "HAZAL AYDIN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T10:25:38.241Z"
+  },
+  {
+    "id": 1753424091164,
+    "isim": "HURİYE ÖMERCİOĞLU",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-03T09:22:08.189Z"
+  },
+  {
+    "id": 1754742912160,
+    "isim": "HÜLYA ÖZCAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-09T15:02:36.956Z"
+  },
+  {
+    "id": 31,
+    "isim": "SEVİLAY CEYLAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-15T12:54:31.611Z"
+  },
+  {
+    "id": 23,
+    "isim": "ŞEFİKE BAY",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-24T07:55:54.234Z"
+  },
+  {
+    "id": "tuba_atas",
+    "isim": "TUBA ATAŞ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-09T08:22:25.614Z"
+  },
+  {
+    "id": 1758703908942,
+    "isim": "TÜLAY ÖNEM",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-25T07:07:10.928Z"
+  },
+  {
+    "id": 30,
+    "isim": "VİLDAN APA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-08-15T12:54:14.132Z"
+  },
+  {
+    "id": 13,
+    "isim": "ZEYNEP KAPLAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-10-05T09:02:27.300Z"
+  },
+  {
+    "id": 1753424305796,
+    "isim": "ZEYNEP NUR ÖZKAYA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-09-24T07:59:04.338Z"
+  }
+]
