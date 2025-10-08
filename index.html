@@ -1187,7 +1187,7 @@
     </div>
   </div>
 
-  <!-- Eşleşme Yasakları Paneli -->
+  <!-- Eşleşme Yasakları Paneli (ESKİ - ARTIK KULLANILMIYOR) -->
   <div id="eslesmemePanel" style="display:none; background:#fff; border:2px solid #dc3545; padding:20px; margin:16px 0; border-radius:8px; position:relative;">
     <button onclick="eslesmemeRegeleriPaneliGizle()" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:20px; cursor:pointer; color:#dc3545; font-weight:bold; width:30px; height:30px; border-radius:50%; display:flex; align-items:center; justify-content:center;" title="Kapat">×</button>
     <h3>Eşleşme Yasakları Paneli</h3>
@@ -1201,7 +1201,7 @@
       </div>
       <div style="flex:1;">
         <label style="display:block; margin-bottom:5px; font-weight:bold;">Yasaklı Kartlar:</label>
-        <input type="text" id="yasakKartArama" placeholder="Kart adında ara..." style="width:100%; padding:8px; margin-bottom:8px;" />
+        <input type="text" id="eskiModal_yasakKartArama" placeholder="Kart adında ara..." style="width:100%; padding:8px; margin-bottom:8px;" />
         <div id="yasakKartListesi" style="height:120px; overflow-y:auto; border:1px solid #ddd; padding:8px; background:#f8f9fa;">
           <!-- Dinamik kartlar buraya gelecek -->
         </div>
@@ -1280,12 +1280,13 @@
   </div>
 
   <!-- Kart Silme Formu -->
+  <!-- Kart Silme Formu (ESKİ - ARTIK KULLANILMIYOR) -->
   <div id="kartSilFormu" style="display:none; background:#fff; border:2px solid #dc3545; padding:20px; margin:16px 0; border-radius:8px; position:relative;">
     <button onclick="kartSilFormGizle()" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:20px; cursor:pointer; color:#dc3545; font-weight:bold; width:30px; height:30px; border-radius:50%; display:flex; align-items:center; justify-content:center;" title="Kapat">×</button>
     <h3>Tarif Kartı Sil</h3>
     <div style="margin-bottom:15px;">
       <label style="display:block; margin-bottom:5px; font-weight:bold;">Silinecek Kartı Seçin:</label>
-      <input type="text" id="kartAramaInput" placeholder="Kart adında ara... (örn: avok salat)" style="width:300px; padding:8px; margin-bottom:8px;" />
+      <input type="text" id="eskiModal_kartAramaInput" placeholder="Kart adında ara... (örn: avok salat)" style="width:300px; padding:8px; margin-bottom:8px;" />
       <select id="silinecekKart" style="width:300px; padding:8px;">
         <option value="">Kart seçin...</option>
       </select>
@@ -1308,20 +1309,20 @@
     <div id="silmeStatus" style="margin-top:15px; padding:10px; border-radius:5px; display:none;"></div>
   </div>
 
-  <!-- Yeni Kart Ekleme Formu -->
+  <!-- Yeni Kart Ekleme Formu (ESKİ - ARTIK KULLANILMIYOR) -->
   <div id="yeniKartFormu" style="display:none; background:#fff; border:2px solid #007bff; padding:20px; margin:16px 0; border-radius:8px; position:relative;">
     <button onclick="yeniKartFormGizle()" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:20px; cursor:pointer; color:#007bff; font-weight:bold; width:30px; height:30px; border-radius:50%; display:flex; align-items:center; justify-content:center;" title="Kapat">×</button>
     <h3>Yeni Tarif Kartı Ekle</h3>
     <div style="margin-bottom:15px;">
       <label style="display:block; margin-bottom:5px; font-weight:bold;">Kart Adı:</label>
-      <input id="yeniKartAdi" placeholder="Örn: mantarli_tavuk_sote" style="width:300px; padding:8px;" />
+      <input id="eskiModal_yeniKartAdi" placeholder="Örn: mantarli_tavuk_sote" style="width:300px; padding:8px;" />
       <small style="display:block; color:#666; margin-top:5px;">
         Not: Türkçe karakterler kullanmayın, boşluk yerine _ kullanın, .jpg eklemeyin
       </small>
     </div>
     <div style="margin-bottom:15px;">
       <label style="display:block; margin-bottom:5px; font-weight:bold;">Etiketler (Tags):</label>
-      <input id="yeniKartTags" placeholder="Örn: salata, kahvaltı, kolay" style="width:300px; padding:8px;" />
+      <input id="eskiModal_yeniKartTags" placeholder="Örn: salata, kahvaltı, kolay" style="width:300px; padding:8px;" />
       <small style="display:block; color:#666; margin-top:5px;">
         Arama için kullanılacak etiketleri virgülle ayırarak yazın (opsiyonel)
       </small>
@@ -1344,7 +1345,7 @@
     <div id="yuklemeStatus" style="margin-top:15px; padding:10px; border-radius:5px; display:none;"></div>
   </div>
 
-  <!-- Kart Düzenleme Formu -->
+  <!-- Kart Düzenleme Formu (ESKİ - ARTIK KULLANILMIYOR) -->
   <div id="kartDuzenleFormu" style="display:none; background:#fff; border:2px solid #ffc107; padding:20px; margin:16px 0; border-radius:8px; position:relative;">
     <button onclick="kartDuzenleFormGizle()" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:20px; cursor:pointer; color:#ffc107; font-weight:bold; width:30px; height:30px; border-radius:50%; display:flex; align-items:center; justify-content:center;" title="Kapat">×</button>
     <h3>Tarif Kartı Düzenle</h3>
@@ -1353,7 +1354,7 @@
     <div style="margin-bottom:20px;">
       <label style="display:block; margin-bottom:5px; font-weight:bold;">Düzenlenecek Kartı Seçin:</label>
       <div style="display:flex; gap:8px; margin-bottom:10px;">
-        <input type="text" id="duzenleKartArama" placeholder="Kart adında ara..." style="flex:1; padding:8px;" oninput="kartListesiniFiltreleForDuzenleme(this.value)" />
+        <input type="text" id="eskiModal_duzenleKartArama" placeholder="Kart adında ara..." style="flex:1; padding:8px;" oninput="kartListesiniFiltreleForDuzenleme(this.value)" />
         <button onclick="listjsonTemizle()" style="padding:8px 12px; background:#dc3545; color:white; border:none; border-radius:4px; cursor:pointer; font-size:12px;"
                 title="Mevcut olmayan dosyaları list.json'dan temizle">
           🧹 Temizle
@@ -1375,7 +1376,7 @@
       
       <div style="margin-bottom:15px;">
         <label style="display:block; margin-bottom:5px; font-weight:bold;">Yeni Kart Adı:</label>
-        <input id="duzenleKartYeniAdi" placeholder="Yeni kart adı" style="width:300px; padding:8px;" />
+        <input id="eskiModal_duzenleKartYeniAdi" placeholder="Yeni kart adı" style="width:300px; padding:8px;" />
         <small style="display:block; color:#666; margin-top:5px;">
           Not: Türkçe karakterler kullanmayın, boşluk yerine _ kullanın, .jpg eklemeyin
         </small>
@@ -1383,7 +1384,7 @@
       
       <div style="margin-bottom:15px;">
         <label style="display:block; margin-bottom:5px; font-weight:bold;">Etiketler (Tags):</label>
-        <input id="duzenleKartTags" placeholder="Örn: salata, kahvaltı, kolay" style="width:300px; padding:8px;" />
+        <input id="eskiModal_duzenleKartTags" placeholder="Örn: salata, kahvaltı, kolay" style="width:300px; padding:8px;" />
         <small style="display:block; color:#666; margin-top:5px;">
           Arama için kullanılacak etiketleri virgülle ayırarak yazın (opsiyonel)
         </small>
@@ -1410,7 +1411,7 @@
     <div id="duzenlemeStatus" style="margin-top:15px; padding:10px; border-radius:5px; display:none;"></div>
   </div>
 
-  <!-- Manuel Kart Ekleme Modal -->
+  <!-- Manuel Kart Ekleme Modal (ESKİ - ARTIK KULLANILMIYOR) -->
   <div id="manuelKartModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 10000;" onclick="manuelKartModalKapat(event)">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: white; border-radius: 8px; width: 80%; max-width: 800px; max-height: 80%; overflow: hidden;" onclick="event.stopPropagation()">
       <div style="padding: 20px; border-bottom: 1px solid #ddd;">
@@ -1419,7 +1420,7 @@
       </div>
       
       <div style="padding: 20px;">
-        <input type="text" id="manuelKartArama" placeholder="Tarif ara (boş bırakın tümünü görmek için)..." style="width: 100%; padding: 10px; font-size: 14px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 15px;" oninput="manuelKartAramaYap(this.value)">
+        <input type="text" id="eskiModal_manuelKartArama" placeholder="Tarif ara (boş bırakın tümünü görmek için)..." style="width: 100%; padding: 10px; font-size: 14px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 15px;" oninput="manuelKartAramaYap(this.value)">
         
         <div id="manuelKartListe" style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
           <div style="text-align: center; color: #666; padding: 20px;">Yükleniyor...</div>
@@ -15187,7 +15188,7 @@ ${mesajlar.join('\n')}
           <th style="padding: 10px; border: 1px solid #ddd;">Tag 3</th>
           <th style="padding: 10px; border: 1px solid #ddd;">Tag 4</th>
           <th style="padding: 10px; border: 1px solid #ddd;">Tag 5</th>
-          <th style="padding: 10px; border: 1px solid #ddd; width: 150px;">İşlem</th>
+          <th style="padding: 10px; border: 1px solid #ddd; width: 80px;">İşlem</th>
         </tr>
       `;
       tablo.appendChild(thead);
@@ -15244,18 +15245,24 @@ ${mesajlar.join('\n')}
           tr.appendChild(tdTag);
         }
         
-        // İşlem Butonları
+        // İşlem Butonları (Yan Yana İkonlar)
         const tdIslem = document.createElement('td');
         tdIslem.style.cssText = 'padding: 4px; border: 1px solid #ddd; text-align: center;';
         tdIslem.innerHTML = `
-          <div style="display: flex; gap: 4px; flex-direction: column;">
+          <div style="display: flex; gap: 5px; justify-content: center; align-items: center;">
             <button onclick="satirTagGuncelle('${kart.name}', ${index})" 
-                    style="width: 100%; padding: 5px; background: #28a745; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 10px; font-weight: bold;">
-              💾 Kaydet
+                    title="Bu satırı kaydet"
+                    style="padding: 6px 10px; background: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; line-height: 1; transition: background 0.2s;"
+                    onmouseover="this.style.background='#218838'" 
+                    onmouseout="this.style.background='#28a745'">
+              💾
             </button>
             <button onclick="kartSecForDuzenleme('${kart.name}')" 
-                    style="width: 100%; padding: 5px; background: #ffc107; color: #000; border: none; border-radius: 3px; cursor: pointer; font-size: 10px; font-weight: bold;">
-              ✏️ Düzenle
+                    title="Kartı düzenle (resim, isim, tag)"
+                    style="padding: 6px 10px; background: #ffc107; color: #000; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; line-height: 1; transition: background 0.2s;"
+                    onmouseover="this.style.background='#e0a800'" 
+                    onmouseout="this.style.background='#ffc107'">
+              ✏️
             </button>
           </div>
         `;
