@@ -5299,24 +5299,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2025-08-31",
-      "bitis": "2025-09-06",
+      "baslangic": "2025-09-15",
+      "bitis": "2025-09-21",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "YELİZ ÖZEN 15-21 EYLÜL 4.HAFTA.pdf",
+      "pdfOrijinalIsim": "YELİZ ÖZEN 15-21 EYLÜL 4.HAFTA.pdf",
+      "pdfYolu": "pdfs/YELİZ ÖZEN 15-21 EYLÜL 4.HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli-5/blob/main/pdfs/YELİZ ÖZEN 15-21 EYLÜL 4.HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli-5/main/pdfs/YELİZ ÖZEN 15-21 EYLÜL 4.HAFTA.pdf",
+      "kayitTarihi": "2025-10-08T07:13:58.245Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2025-09-08T09:33:36.572Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-08T07:13:20.219Z",
+  "sonGuncelleme": "2025-10-08T07:13:58.245Z",
   "githubKaydedildi": true
 }
