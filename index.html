@@ -981,6 +981,9 @@
             <button onclick="topluTagEkle()" style="flex: 1; padding: 10px; background: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 13px;">
               ➕ Seçili Kartlara Tag Ekle
             </button>
+            <button onclick="veritabaniSecilenKartlariIndir()" style="flex: 1; padding: 10px; background: #17a2b8; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 13px;">
+              📥 Seçilenleri İndir (ZIP)
+            </button>
             <button onclick="tumunuSec()" style="padding: 10px 20px; background: #17a2b8; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 13px;">
               ☑️ Tümünü Seç
             </button>
@@ -15486,6 +15489,88 @@ ${mesajlar.join('\n')}
       } catch (error) {
         console.error('Toplu kayıt hatası:', error);
         showToast('❌ Kayıt başarısız!', 'error');
+      }
+    }
+    
+    // Yemek veritabanından seçili kartları ZIP olarak indir
+    async function veritabaniSecilenKartlariIndir() {
+      if (!filtrelenmisVeritabaniKartlari || filtrelenmisVeritabaniKartlari.length === 0) {
+        showToast('❌ Filtrelenmiş kart yok!', 'error');
+        return;
+      }
+      
+      // Seçili kartları al
+      if (secilenVeritabaniKartlari.size === 0) {
+        showToast('❌ Hiçbir kart seçilmedi! Lütfen en az bir kart seçin.', 'error');
+        return;
+      }
+      
+      if (typeof JSZip === 'undefined') {
+        showToast('❌ JSZip kütüphanesi yüklenmemiş!', 'error');
+        return;
+      }
+      
+      try {
+        showToast(`📦 ${secilenVeritabaniKartlari.size} kart hazırlanıyor...`, 'warning');
+        
+        const zip = new JSZip();
+        const folder = zip.folder('tarifler');
+        
+        // Seçili kartları topla
+        const secilenKartlar = [];
+        filtrelenmisVeritabaniKartlari.forEach(kart => {
+          if (secilenVeritabaniKartlari.has(kart.name)) {
+            secilenKartlar.push(kart);
+          }
+        });
+        
+        // Her seçili kartı ZIP'e ekle
+        let yuklendiSayisi = 0;
+        for (const kart of secilenKartlar) {
+          try {
+            const url = `https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/${kart.name}`;
+            const response = await fetch(url);
+            if (response.ok) {
+              const blob = await response.blob();
+              folder.file(kart.name, blob);
+              yuklendiSayisi++;
+              
+              // İlerleme göster
+              if (yuklendiSayisi % 10 === 0) {
+                showToast(`📥 ${yuklendiSayisi}/${secilenKartlar.length} kart yüklendi...`, 'warning');
+              }
+            } else {
+              console.warn(`⚠️ Kart yüklenemedi: ${kart.name}`);
+            }
+          } catch (error) {
+            console.error(`❌ Kart indirme hatası (${kart.name}):`, error);
+          }
+        }
+        
+        if (yuklendiSayisi === 0) {
+          showToast('❌ Hiçbir kart indirilemedi!', 'error');
+          return;
+        }
+        
+        showToast('🗜️ ZIP dosyası oluşturuluyor...', 'warning');
+        
+        // ZIP dosyasını oluştur
+        const zipBlob = await zip.generateAsync({type: 'blob'});
+        
+        // İndir
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(zipBlob);
+        
+        const tarih = new Date().toISOString().split('T')[0];
+        const isimArama = document.getElementById('veritabaniIsimArama').value.trim().replace(/[^a-z0-9]/gi, '_') || 'tum';
+        link.download = `veritabani_${isimArama}_${yuklendiSayisi}_kart_${tarih}.zip`;
+        link.click();
+        
+        showToast(`✅ ${yuklendiSayisi} kart indirildi!`, 'success');
+        
+      } catch (error) {
+        console.error('❌ ZIP oluşturma hatası:', error);
+        showToast('❌ ZIP oluşturulamadı!', 'error');
       }
     }
     
