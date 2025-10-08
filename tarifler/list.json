@@ -2,16 +2,12 @@
   {
     "name": "adana_urfa_kebap.jpg",
     "url": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/adana_urfa_kebap.jpg",
-    "tags": [
-      "deneme"
-    ]
+    "tags": []
   },
   {
     "name": "alabas_kizartmasi.jpg",
     "url": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/alabas_kizartmasi.jpg",
-    "tags": [
-      "deneme2"
-    ]
+    "tags": []
   },
   {
     "name": "alabas_salatasi.jpg",
@@ -58,7 +54,11 @@
   {
     "name": "badem_unlu_dere_otlu_pogaca.jpg",
     "url": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/badem_unlu_dere_otlu_pogaca.jpg",
-    "tags": []
+    "tags": [
+      "atıştırmalık",
+      "tuzlu",
+      "keto"
+    ]
   },
   {
     "name": "badem_unlu_ekmek.jpg",
