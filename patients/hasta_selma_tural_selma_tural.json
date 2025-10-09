@@ -2189,7 +2189,7 @@
       "pdfYolu": "pdfs/SELMA TURAL 13-19 EKİM 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SELMA TURAL 13-19 EKİM 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SELMA TURAL 13-19 EKİM 11. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:56:02.181Z",
+      "kayitTarihi": "2025-10-09T14:02:00.728Z",
       "tarifKartlar": [
         {
           "tarifAdi": "patlıcan kebabı",
@@ -2334,8 +2334,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Selma Hanım merhaba,\n\nPazartesi günü itibariyle on birinci haftaya başlıyoruz. Programın bu dönemine kadar gösterdiğiniz özenli takip ve mesajlarınızdaki olumlu hava, süreci kararlılıkla sürdürdüğünüzü gösteriyor. Bu hafta sonu ölçümleriniz elimize ulaşırsa birlikte değerlendirebiliriz.\n\nYemek listeniz, bu aşamada lipödem tedavisini hem destekleyici hem de sürdürülebilir kılacak şekilde planlandı. Öğle öğünlerinde yer verdiğimiz poğaça ve muffin gibi seçenekler; badem unu, kabak, peynir gibi hem tok tutan hem de inflamasyonu azaltıcı içeriklerle hazırlandı. Özellikle badem ve ceviz gibi yağlı tohumlar; omega-3, E vitamini ve magnezyum yönünden zengin olduğu için damar sağlığına destek olurken, insülin dengenizi de korur. Bu dönemde tatlı ihtiyacınızı bastırmak için küçük porsiyonlarla eklediğimiz elma, hünnap gibi meyveler kontrollü karbonhidrat alımına olanak tanıyor.\n\nAkşam öğünlerinde balık, tavuk ve kıyma gibi protein kaynaklarıyla birlikte yoğurtlu sebzeler (borani gibi), salatalar ve turşu yer alıyor. Yoğurt, hem bağışıklık hem de bağırsak sağlığı açısından önemli bir kaynak; turşular da probiyotik etkisiyle süreci destekliyor. Haftada birkaç gün kullandığımız karabuğday ekmeği, kan şekerini ani yükseltmeyen yapısıyla hem lif sağlar hem de tok tutar. Ayrıca salatalarla birlikte gelen kırmızı lahana, roka gibi sebzeler C vitamini ve flavonoid içerikleriyle dokulara destek verir.\n\nListede zaman zaman browni kurabiye, kabak çökertme, yeşil mercimek köftesi gibi tarifler de yer alıyor. Bunlar hem damak tadınızı ihmal etmeden ilerlemenizi sağlar hem de protein, lif ve mineral desteği açısından faydalı bileşenler sunar.\n\nLipödem, kronik inflamasyonla seyreden ve zamanla cilt altı bağ dokuda zayıflamaya yol açabilen bir hastalık. Bu nedenle süreci sadece diyet olarak değil; hareket, masaj ve uygun desteklerle birlikte bir bütün halinde yürütüyoruz. Egzersiz ve masajlar bu haftalarda artık çok daha etkili olmaya başlıyor. Masajlara zaman ayırmak, hareketleri videolarda gösterildiği gibi yavaş ve yüzeyel uygulamak önemli. Lenf akışının ritmini bozmadan, sabırlı ama düzenli uygulamalarla ciltteki yumuşama ve sarkmayı büyük ölçüde toparlamak mümkün olabiliyor.\n\nSürecin bu aşaması, kıyafetlerdeki hissedilen farklılıkların, yürüyüşlerdeki hafifliğin daha çok öne çıkacağı bir dönem. Kendinizi nasıl hissettiğinizi, hareketlerinizi ya da kıyafetlerdeki farkları da bizimle paylaşabilirsiniz. Bu veriler bize çok yol gösterici oluyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2439,6 +2439,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-05T17:15:26.168Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T13:59:11.385Z",
+  "sonGuncelleme": "2025-10-09T14:02:00.729Z",
   "githubKaydedildi": true
 }
