@@ -2286,7 +2286,7 @@
       "pdfYolu": "pdfs/AYŞE KOYUNCU 13-19 EKİM 12. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE KOYUNCU 13-19 EKİM 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE KOYUNCU 13-19 EKİM 12. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:58:01.338Z",
+      "kayitTarihi": "2025-10-09T12:52:44.560Z",
       "tarifKartlar": [
         {
           "tarifAdi": "sulu köfte",
@@ -2429,8 +2429,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Ayşe Hanım merhaba,\n\nPazartesi itibarıyla on ikinci haftaya giriyoruz. Bu haftalarda artık sürecin ritmini yakaladığınızı ve kendi düzeninizi oluşturduğunuzu görmek önemli. Günlük yürüyüşlere devam edebilmeniz ve motivasyonunuzun yerinde olması çok değerli; özellikle lipödem gibi kronik enflamatuar tablonun yönetiminde fiziksel aktivitenin önemli bir yeri olduğunu tekrar hatırlatmak isterim. Yürüyüşlerle birlikte dolaşımın desteklenmesi, ödemin azaltılması ve metabolizmanın dengelenmesi çok daha kolay hale gelir.\n\nBu haftaki yemek listemizi incelerseniz, artık daha dengeli ve sadeleşmiş ama mikrobesin zenginliği açısından güçlü bir yapının oluştuğunu fark edebilirsiniz. Salatalarda sıklıkla tercih edilen roka, maydanoz, tere ve dereotu gibi aromatik yeşillikler, lenfatik sistemin doğal destekleyicileri olarak öne çıkıyor. Hem sindirim sistemine katkı sağlıyor hem de içerdikleri C vitamini, flavonoidler ve fitokimyasallar sayesinde iltihap yanıtını baskılamaya yardımcı oluyorlar.\n\nTost ve poğaça gibi tariflerin ketojenik versiyonlarını belirli günlere ekleyerek daha sürdürülebilir bir düzen kurmayı hedefliyoruz. Özellikle karabuğday ekmeği gibi lif içeriği yüksek seçeneklerle bağırsak geçiş süresi dengeleniyor ve insülin yanıtı kontrollü kalıyor. Bu da lipödemli bireylerde yağ hücrelerinin yeniden aktive olmasını engelleyen mekanizmalardan biri olarak değerlendiriliyor.\n\nSebzeli omletler, kavurmalı yumurtalar, sahanda yumurtalar gibi farklı yumurta formlarını kullanmamız ise hem proteini çeşitlendirmek hem de tokluk süresini artırmak için tercih ediliyor. Yumurtayla birlikte verilen zeytin, avokado veya peynir gibi yağ ve protein kaynakları, glisemik dengeyi uzun süre korumaya destek olurken; içerdikleri E vitamini ve antioksidan bileşenler de damar sağlığını destekliyor.\n\nBalık gününde kullandığımız tahinli sos, hem omega-3 alımını dengelemek hem de doymamış yağ asitleriyle kolajen üretimine katkı sağlamak amacıyla eklendi. Aynı günün salatasında da roka ve kırmızı soğan gibi karaciğer dostu sebzeler kullanıldı. Bu kombinasyonlar, özellikle yağ dokusu çevresindeki toksinlerin uzaklaştırılması sürecinde karaciğerin yükünü azaltmak için planlandı.\n\nTatlı olarak verilen orman meyveli muhallebi, haftanın sonunda hem psikolojik dengeyi korumak hem de ölçülü şeker isteğini karşılamak adına stratejik bir noktada yer alıyor. İçeriğindeki antioksidanlarla serbest radikal temizliğine katkı sağlayan orman meyveleri, lipödemli bireylerde hücre yenilenmesini de olumlu etkileyebilir.\n\nGünlük önerdiğimiz kurşun geçirmez kahve hâlâ sabah rutininizin bir parçası olmalı. Bu kahve, hem mental berraklığı hem de yağ metabolizmasını destekleyerek günü daha dengeli geçirmenizi sağlayacaktır. Ayrıca, ara öğün olarak verilen maden suyu limon ve tuzla birlikte vücut mineral dengesini korumaya yönelik basit ama etkili bir destekleyicidir.\n\nLenf drenaj masajlarına ayırabildiğiniz zaman da önemli. Bu haftalardan itibaren masajın yoğunluğu giderek azalabilirken, egzersizlerin etkisi artmaya başlayacak. Masajın yüzeysel lenf akışını desteklediği; yürüyüş, esneme ve ilerleyen haftalarda başlayacağımız egzersizlerin ise derin lenfatik sistemin uyarılmasında rol oynadığı unutulmamalı. Masajda esas olan, uygulamayı yavaş ve nazik hareketlerle, doğru bölgelerde yapmak. Özellikle karın, kasık, diz arkası ve boyun bölgesine odaklanmak daha etkili sonuçlar sağlayabilir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2537,6 +2537,6 @@
     }
   ],
   "ad": "AYŞE KOYUNCU",
-  "sonGuncelleme": "2025-10-09T12:50:16.488Z",
+  "sonGuncelleme": "2025-10-09T12:52:44.561Z",
   "githubKaydedildi": true
 }
