@@ -479,7 +479,7 @@
       "pdfYolu": "pdfs/BELGİN ALTINTAŞ 13-19 EKİM 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BELGİN ALTINTAŞ 13-19 EKİM 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BELGİN ALTINTAŞ 13-19 EKİM 3. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:36:04.125Z",
+      "kayitTarihi": "2025-10-09T07:48:17.698Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -632,8 +632,8 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "tahi̇n ekmeği̇ yeri̇ne(bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin ya da 20 adet"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Belgin Hanım,\n\nÜçüncü haftaya başlıyoruz. Bu haftadan itibaren programda süt ürünleri kontrollü şekilde yeniden yer alıyor. Özellikle yoğurt ve peynir gibi fermente ürünlerle başlıyoruz; çünkü bu besinler sindirimi kolaylaştırır, bağırsak florasını destekler ve inflamasyonu azaltmaya yardımcı olur. Aynı zamanda bu haftayla birlikte probiyotik ve prebiyotik takviyelere de başlanıyor.\n\nİlk iki haftalık eliminasyon süreci, bağırsak sistemini rahatlatmak ve inflamatuar yükü azaltmak için çok önemliydi. Artık o temelin üzerine sağlıklı bakterilerin çoğalmasını destekleyecek bir yapı kuruyoruz. Listede yoğurtlu kabak mezesi ve yoğurtlu semizotu salatası gibi öğünler bu amaçla eklendi. Bu kombinasyonlar hem probiyotik etki sağlar hem de lif içeriğiyle sindirim sistemini düzenler.\n\nMenüdeki sebze çeşitliliği —kabak, patlıcan, semizotu, roka, kırmızı lahana gibi— vücudun lif, magnezyum, potasyum ve C vitamini ihtiyacını karşılar. Bu mikrobesinler hem ödemin çözülmesine hem de dokuların yenilenmesine destek olur. Balık, hindi, köfte ve yumurta gibi yüksek kaliteli protein kaynakları ise bağ dokusunun onarımı için gereklidir. Kollajen desteği de bu dönemde cilt altı dokunun toparlanmasına katkı sağlar.\n\nKilo verme süreciyle ilgili olarak, tartıdaki değişimin henüz başlamamış olmasını endişe verici bir durum olarak değerlendirmemek gerekir. Lipödemde vücudun öncelikli tepkisi, ödemli ve inflamasyonla dolu yağ dokusunu çözmek olur. Bu süreçte yağ hücreleri toksinleri ve fazla sıvıyı dışarı bırakırken, kısa süreli duraksamalar yaşanabilir. Bu aslında sürecin çalıştığının göstergesidir.\n\nLipödemli dokuda önemli olan yalnızca kilo kaybı değil, hacim azalmasıdır. Yağ dokusunun yoğunluğu düşük olduğu için vücuttaki form değişimi tartıya göre çok daha anlamlıdır. Bu nedenle bu haftalarda bel, kalça, uyluk ve diz çevresi ölçümlerini düzenli olarak almanız, değişimi daha doğru değerlendirmemizi sağlayacaktır. Kıyafetlerdeki gevşeme, ciltte yumuşama veya dokuda rahatlama gözlemliyorsanız, bu tablo metabolik olarak ilerlemenin başladığını gösterir.\n\nProgramda yer alan “ketojenik tost” ve “lupin unlu poğaça” gibi alternatifler, süt ürünlerinin dönüşünü daha dengeli hale getirmek için planlandı. Keten veya haşhaş ekmeğinden yapılan tostların içine ince dilim domates ve peynir eklenmesi hem lezzeti artırır hem de tok kalma süresini uzatır.\n\nBu hafta, bedenin yeniden denge kurduğu bir geçiş evresidir. Kilo kaybı zamana yayılan bir süreçtir; ancak istikrarlı devam edildiğinde ödemin çözülmesi, doku kalitesinin artması ve vücut formunun belirginleşmesi kaçınılmazdır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -739,6 +739,6 @@
   ],
   "olusturmaTarihi": "2025-09-27T09:59:35.048Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T07:43:14.305Z",
+  "sonGuncelleme": "2025-10-09T07:48:17.698Z",
   "githubKaydedildi": true
 }
