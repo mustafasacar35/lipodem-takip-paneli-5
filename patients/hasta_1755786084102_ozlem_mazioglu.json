@@ -1754,7 +1754,7 @@
       "pdfYolu": "pdfs/ÖZLEM MAZIOĞLU 13-19 EKİM 8. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZLEM MAZIOĞLU 13-19 EKİM 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZLEM MAZIOĞLU 13-19 EKİM 8. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:55:21.928Z",
+      "kayitTarihi": "2025-10-09T14:43:12.655Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -1893,8 +1893,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Özlem Hanım,\n\nSekizinci haftadayız. Geçen hafta gönderdiğiniz mesajda da belirttiğiniz gibi süreç sizin için oldukça istikrarlı ilerliyor. Buna çok sevindim. Masajları ve egzersizleri düzenli yapmanız, özellikle lenf drenaj masajını ihmal etmemeniz bu haftaya kadar olan incelmenin ve toparlanmanın en önemli nedenlerinden biri. Lenf sistemini hem manuel masajla hem de egzersizlerle birlikte aktif tutmanız dolaşımı artırarak dokulardaki sıvı birikimini azaltıyor. Bu mekanizma sayesinde hem ödemin çözülmesi hızlanıyor hem de cilt altı dokularda belirgin bir sıkılaşma gerçekleşiyor.\n\nSekizinci haftanın beslenme planı bu süreci destekleyecek şekilde hazırlandı. Öğle öğünlerinde yumurta, peynir, muffin ve sebzeli omlet gibi seçeneklerle protein dengesi korunurken, yeşillikler ve kabak gibi sebzelerle lif alımı artırıldı. Bu kombinasyon, hem tokluk hissini uzatır hem de sindirim sisteminin düzenli çalışmasını sağlar. Akşam öğünlerinde et, balık ve tavuk çeşitlerine yer verildi; bu da kas kütlesinin korunmasını, yağ kaybının ise dengeli ilerlemesini sağlar. Özellikle somon, çupra ve levrek gibi balıklarla alınan omega-3 yağ asitleri, lenf dolaşımını destekler ve inflamasyonu baskılar.\n\nListede bu hafta yoğurtlu kabak mezesi, borani ve imam bayıldı gibi sebze tabanlı, sağlıklı yağlarla zenginleştirilmiş yemekler de var. Bunlar hem bağırsak dostu prebiyotik etki sağlar hem de C vitamini, magnezyum ve potasyum açısından zengin oldukları için dolaşımı ve dokusal toparlanmayı destekler. Şeftali, hünnap ve karpuz gibi küçük porsiyonlu meyveler ise kontrollü miktarda antioksidan desteği sağlayarak tatlı isteğini dengelemeye yardımcı olur.\n\nCevizli browni kek gibi sağlıklı tatlı alternatifleri de bu hafta plana dahil edildi. Bu tarifler rafine şeker içermediği için insülin dengesini bozmadan tatlı ihtiyacını karşılar. Akşam öğünlerinden sonra verilen kollajen takviyesi de cilt altı dokuların sıkılaşması ve bağ dokusunun güçlenmesi açısından önemli bir destek olmaya devam ediyor.\n\nKilonuzun 67’de sabit kalması gayet doğal; çünkü şu anda yağ dokusunda çözülme devam ederken kas ve bağ dokusu yeniden yapılanıyor. Bu dönemde sabırlı şekilde ilerlemek çok önemli. Hedeflediğiniz 65 kiloya yaklaşırken vücudun yeni formuna adapte olmasını beklemek en doğru yaklaşım olacaktır.\n\nLenf drenaj masajını ve egzersizleri aynı düzende sürdürmeye devam edin, bunlar sürecin hızını belirleyen iki temel unsur. Önümüzdeki haftalarda bu istikrarı korumanız, incelmenin daha da belirgin hale gelmesini sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1991,6 +1991,6 @@
   ],
   "olusturmaTarihi": "2025-08-21T14:21:24.102Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:38:22.226Z",
+  "sonGuncelleme": "2025-10-09T14:43:12.656Z",
   "githubKaydedildi": true
 }
