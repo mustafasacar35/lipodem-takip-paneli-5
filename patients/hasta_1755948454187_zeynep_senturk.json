@@ -1689,7 +1689,7 @@
       "pdfYolu": "pdfs/ZEYNEP ŞENTÜRK 13-19 EKİM 8. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ZEYNEP ŞENTÜRK 13-19 EKİM 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ZEYNEP ŞENTÜRK 13-19 EKİM 8. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:57:18.214Z",
+      "kayitTarihi": "2025-10-09T14:46:53.798Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -1824,8 +1824,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Zeynep Hanım merhaba, Nasılsınız? Umarım herşey yolundadır. \n\nPazartesi günü itibariyle sekizinci haftaya başlıyoruz. Artık programın ikinci yarısına girdik ve bu dönemde hem vücuttaki toparlanma süreci hem de metabolik denge daha belirgin hale geliyor.\n\nSeval hanım ile telefon görüşmenizde kendinizi daha iyi hissettiğinizi, çevrenizden olumlu geri dönüşler aldığınızı ve sürece uyum göstermeye çalıştığınızı paylaşmıştınız. Bu çok değerli bir aşama. Çünkü değişikliklerin hem fiziksel hem ruhsal olarak hissedilmeye başlanması, sistemin vücudunuz tarafından kabul gördüğünü gösteriyor. Ara sıra kaçamaklar olabilir ama bunlar sürecin doğal bir parçası. Önemli olan genel ritmi koruyabilmek ve geri dönüşleri bilinçli bir şekilde dengeleyebilmek.\n\nListelerde bu hafta özellikle lupin unlu ekmek, yoğurtlu tavuk salata, kuru soğanlı lor kavurması, kuzu güveç ve balık gibi içerikler öne çıkıyor. Bu öğünlerde hem protein hem de sağlıklı yağ dengesi korunmuş durumda. Lupin unu lif ve protein açısından çok zengin bir alternatif; insülin yanıtını düşürürken uzun süre tokluk sağlıyor. Tavuk, balık ve yumurta gibi hayvansal proteinler dokuların onarımında ve bağ dokusunun güçlenmesinde önemli rol oynuyor. Semizotu, deniz börülcesi ve yeşil yapraklı sebzeler magnezyum ve potasyum desteğiyle ödemin çözülmesine katkı sağlıyor. Ceviz, tahin ve zeytinyağı gibi içeriklerse iyi yağ kaynakları olarak lenf akışını kolaylaştırıyor.\n\nKurşun geçirmez kahve yerine sabahları yarım avokado, 10 adet çiğ badem, 5 ceviz veya 1 yemek kaşığı tahin tüketebilirsiniz. Bu alternatifler hem metabolizmayı destekler hem de sindirim sistemine daha nazik bir başlangıç sağlar.\n\nLenf drenaj masajına başlamış olmanız bu aşamada çok doğru bir adım. Masajla birlikte yüzeyel ve derin lenf yolları aktifleşiyor; dokularda biriken sıvı, toksin ve atık maddeler dolaşım yoluyla vücuttan uzaklaştırılıyor. Bu hem ödemin çözülmesini hem de cilt altı dokuların sıkılaşmasını hızlandırıyor. Ayrıca, bu dönemde manuel masajın cihaz destekli uygulamalara göre çok daha etkili olduğunu özellikle vurgulamak gerekir. Çünkü el ile yapılan masajda basınç, ritim ve yönlendirme vücudun ihtiyaçlarına göre ayarlanabiliyor.\n\nKendinizi daha iyi hissetmeniz, sistemin çalıştığını gösteren en somut işaretlerden biri. Ölçümlerinizi yapamadığınızı belirtmiştiniz; bu hafta ölçümleri alabilirseniz hem genel ilerlemeyi hem de masajın etkilerini daha net değerlendirebiliriz. Tartıdan ziyade bel, basen ve bacak çevrelerindeki değişimler bizim için çok daha anlamlı.\n\nÖzetle bu haftadan itibaren süreç artık “alışkanlık” boyutuna taşınıyor. Yeme düzeninizin oturması, masajların başlaması ve metabolik dengenin sağlanmasıyla birlikte lipödemli dokulardaki inflamasyonun azaldığı, ödemin hafiflediği ve genel enerjinizin yükseldiği bir döneme giriyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1930,6 +1930,6 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:43:43.262Z",
+  "sonGuncelleme": "2025-10-09T14:46:53.799Z",
   "githubKaydedildi": true
 }
