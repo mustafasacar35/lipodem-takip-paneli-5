@@ -962,7 +962,7 @@
       "pdfYolu": "pdfs/SEVAL BAŞÖZ 13-19 EKİM 5. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEVAL BAŞÖZ 13-19 EKİM 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEVAL BAŞÖZ 13-19 EKİM 5. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:45:19.505Z",
+      "kayitTarihi": "2025-10-09T08:51:43.351Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bonfile steak",
@@ -1122,8 +1122,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Seval Hanım,\n\nPazartesi günü itibarıyla beşinci haftaya başlıyoruz. Cumartesi günü gönderdiğiniz ölçümler gayet iyiydi; hem kilo kaybınız hem de bölgesel ölçümlerinizde düzenli bir ilerleme var.\n\nBu haftadan itibaren sürece yeni bir adım ekliyoruz: manuel lenf drenaj masajı. Bu masaj, lipödemli dokularda biriken sıvının daha kolay atılmasını sağlayan, oldukça hafif ama etkili bir yöntemdir. Size hem uygulama videolarını hem de 8 haftalık bir takvimi göndereceğiz. İlk iki hafta sabah ve akşam, üçüncü ve dördüncü haftalarda günde bir kez, beşinci haftadan itibaren ise gün aşırı sabahları yapmanız yeterli olacak. Takvime uymanız, sistemin düzenli çalışması açısından çok önemli.\n\nMasajı bastırmadan, yavaş ve uzun hareketlerle yapmanız gerekiyor. Bu uygulama yalnızca ödemi azaltmakla kalmaz; aynı zamanda karaciğer ve böbreklerin detoks yükünü hafifletir, ciltte sıkılaşma sağlar ve genel dolaşımı güçlendirir. Lenf sistemi yüzeyel bir ağ şeklindedir; dolayısıyla düzenli masaj, hem yüzeyel hem de derin dolaşımı birlikte harekete geçirir.\n\nHaftalık listeniz de bu süreci destekleyecek şekilde hazırlandı. Balık, köfte, tavuk ve yumurta gibi protein kaynakları dokuların onarımına katkı sağlar. Semizotu, roka ve ıspanak gibi yeşil yapraklı sebzeler magnezyum ve C vitamini yönünden zengindir; bu da lenf akışını destekleyen damar elastikiyetini artırır. Kabak, domates ve salatalık gibi sulu sebzeler bağırsak hareketlerini düzenler, kabızlık şikâyetini hafifletir.\n\nBu dönemde kabızlığın tamamen kontrol altına alınması önemli. Sabah ve akşam aç karnına bir yemek kaşığı zeytinyağı alabilir veya salatalarınıza bir tatlı kaşığı keten tohumu ekleyebilirsiniz. Günlük sıvı alımınızı da 1,5 litrenin altına düşürmemeye dikkat edin. Dilerseniz rezene–anason–kimyon çayını haftada birkaç kez kullanabilirsiniz; bu çaylar sindirimi destekler.\n\nBu haftayı hem masaj uygulamalarını öğrenmek hem de lenf sistemini aktif hale getirmek için temel dönem olarak düşünelim. Düzenli uygulama ile birlikte, ilerleyen haftalarda ödem azalması ve cilt dokusunda sıkılaşma daha belirgin hale gelecek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1226,6 +1226,6 @@
   ],
   "olusturmaTarihi": "2025-09-16T13:10:46.241Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:47:29.193Z",
+  "sonGuncelleme": "2025-10-09T08:51:43.352Z",
   "githubKaydedildi": true
 }
