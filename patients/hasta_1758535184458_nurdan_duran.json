@@ -761,7 +761,7 @@
       "pdfYolu": "pdfs/NURDAN DURAN 13-19 EKİM 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NURDAN DURAN 13-19 EKİM 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NURDAN DURAN 13-19 EKİM 4. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:41:35.633Z",
+      "kayitTarihi": "2025-10-09T08:30:08.406Z",
       "tarifKartlar": [
         {
           "tarifAdi": "patlıcan salatalı tavuk şiş",
@@ -926,8 +926,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Nurdan Hanım,\n\nPazartesi gününden itibaren dördüncü haftaya başlıyoruz. Artık süt ürünlerine geçtiğimiz üçüncü haftanın ardından, bu besinlerin sindirim sisteminiz tarafından nasıl tolere edildiğini gözlemleme dönemindeyiz. Yoğurt, peynir ve süt ürünleriyle birlikte probiyotik etkili besinlerin bağırsak florasında denge sağlamaya başladığı bu hafta, hem sindirim konforunun hem de ödemin azaldığı bir dönemdir.\n\nBu haftaki listedeki çeşitlilik, vücudunuzu daha dengeli bir yapıya taşımak için planlandı. Öğle öğünlerinde avokadolu omlet, poğaça, muffin gibi seçenekler hem sağlıklı yağ hem de yüksek kaliteli protein sağlıyor. Özellikle avokado ve zeytinyağı kombinasyonu, lipödem sürecinde insülin dengesini korumaya ve tokluk süresini uzatmaya yardımcı olur. Akşam öğünlerinde tavuk şiş, köfte, kremalı mantarlı tavuk ve somon gibi zengin protein kaynakları bulunuyor. Bu yemekler hem kas dokusunun korunmasını hem de metabolizmanın canlı kalmasını destekliyor.\n\nKollajen desteğini her akşam sürdürmemizin nedeni, cilt altı bağ dokusunun toparlanmasını desteklemek. Özellikle lipödemli dokuda elastikiyet kaybı ve dolaşım zayıflığı olduğundan, kollajen bu dönemde çok kıymetli bir destek sağlar. Bunun yanında yoğurtlu ıspanak (borani) ve turşu gibi fermente içerikler, bağırsak florasının güçlenmesine katkı sağlar. Sağlıklı bir flora yalnızca sindirimi değil, kilo verme hızını da etkiler; çünkü iyi bakteriler yağ depolayan mekanizmaları baskılar, metabolik esnekliği artırır.\n\nListede haftanın ilerleyen günlerinde mevsim sebzelerine de yer verildi — kabak, bamya, ıspanak, kırmızı biber ve roka gibi sebzeler hem lif hem de antioksidan açısından güçlü kaynaklardır. Bu sebzeler ödemin çözülmesine, karaciğerin detoks kapasitesinin artmasına ve cilt dokusunun daha canlı görünmesine yardımcı olur. Çilek gibi düşük glisemik indeksli meyveler de ölçülü şekilde listeye eklendi; hem C vitamini desteği sağlar hem de tatlı isteğini doğal yoldan dengelemeye yardımcı olur.\n\nHer gün ortalama 5000 adım yürüyüş, yeterli sıvı alımı ve akşam öğünlerinde turşu veya maden suyu gibi mineralli desteklerle birlikte bu dönemi daha rahat geçirebilirsiniz.\n\nDördüncü haftada bu yeni dengeyi hissederken, sürecin sizin için nasıl ilerlediğini de merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi paylaşırsanız, sonraki haftayı buna göre şekillendirebiliriz.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1031,6 +1031,6 @@
   ],
   "olusturmaTarihi": "2025-09-22T09:59:44.458Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:25:12.180Z",
+  "sonGuncelleme": "2025-10-09T08:30:08.407Z",
   "githubKaydedildi": true
 }
