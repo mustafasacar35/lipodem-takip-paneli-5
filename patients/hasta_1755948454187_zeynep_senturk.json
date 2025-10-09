@@ -21,7 +21,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "köfte",
@@ -40,12 +40,6 @@
           "kartResmi": "cevizli_kasik_salatasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/cevizli_kasik_salatasi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -150,8 +144,7 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "köfte",
-        "haşhaş ezmesi ekmeği (1 dilim)",
-        "tavuk güveç"
+        "haşhaş ezmesi ekmeği (1 dilim)"
       ],
       "eslesmeyenTarifler": [
         "zeynep şentürk",
@@ -230,6 +223,7 @@
         "çiğ badem (10 adet)",
         "yeşillikler (dereotu, roka, maydanoz, turp, sirke ve limon ile)",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
         "günlük ortalama 5000 adım önerilir",
@@ -261,12 +255,6 @@
           "kartResmi": "patlican_musakka.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "közlenmiş patlıcan salatası",
@@ -377,7 +365,6 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "patlıcan musakka",
         "karabuğday ekmeği 1 dilim 25 gr",
-        "tavuk güveç",
         "közlenmiş patlıcan salatası",
         "karabuğday ekmeği 1 dilim 25 gr",
         "karabuğday ekmeği 1 dilim 25 gr",
@@ -406,6 +393,7 @@
         "zeytin (10 adet)",
         "karabuğday ekmeği 1 dilim 25 gr",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
         "fırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve 1 diş",
@@ -719,12 +707,6 @@
       "kayitTarihi": "2025-09-11T09:10:31.421Z",
       "tarifKartlar": [
         {
-          "tarifAdi": "avokadolu omlet",
-          "kartResmi": "avokado_omleti.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/avokado_omleti.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "çıtır tavuk (tarifin yarısını tüketelim)",
           "kartResmi": "citir_tavuk.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/citir_tavuk.jpg",
@@ -743,22 +725,10 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "avokado ve rokalı salata",
-          "kartResmi": "avokado_ve_rokali_salata.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/avokado_ve_rokali_salata.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
           "kartResmi": "karabugday_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/karabugday_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "patlıcan kebabı",
@@ -867,13 +837,10 @@
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
-        "avokadolu omlet",
         "çıtır tavuk (tarifin yarısını tüketelim)",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "köfte",
-        "avokado ve rokalı salata",
         "karabuğday ekmeği 1 dilim 25 gr",
-        "tavuk güveç",
         "karabuğday ekmeği 1 dilim 25 gr",
         "karabuğday ekmeği 1 dilim 25 gr",
         "patlıcan kebabı",
@@ -889,6 +856,7 @@
         "hafta",
         "pazartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
+        "avokadolu omlet",
         "tulum / kaşar peyniri (30 gram)",
         "yeşillikler (dereotu, roka, maydanoz + limon, sirke ile)",
         "zeytin (5 adet)",
@@ -902,6 +870,7 @@
         "zeytin (5 adet)",
         "ceviz (3 adet )",
         "akşam (tercihen hava kararınca)",
+        "avokado ve rokalı salata",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
         "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
@@ -909,6 +878,7 @@
         "yeşillikler (dereotu, roka, maydanoz, marul vs. + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
         "çiğ badem (20 adet)",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "karabuğday ekmeği 1 dilim 25 gr",
         "kollajen (1 ölçek 10 gram)",
         "perşembe",
@@ -986,12 +956,6 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "borani (yoğurtlu ıspanak)",
-          "kartResmi": "borani_yogurtlu_ispanak.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/borani_yogurtlu_ispanak.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "alinazik kebabı",
           "kartResmi": "alinazik_kebabi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/alinazik_kebabi.jpg",
@@ -1014,12 +978,6 @@
           "kartResmi": "kahvaltilik_kuru_soganli_cevizli_lor_kavurmasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kahvaltilik_kuru_soganli_cevizli_lor_kavurmasi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "kuzu güveç",
-          "kartResmi": "kuzu_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -1119,7 +1077,6 @@
         "badem unlu lavaş",
         "kabak spagetti",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
-        "borani (yoğurtlu ıspanak)",
         "alinazik kebabı",
         "badem unlu lavaş",
         "köfte",
@@ -1127,8 +1084,7 @@
         "kaşarlı kabak graten",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "kahvaltılık kuru soğanlı cevizli lor kavurması",
-        "badem unlu lavaş",
-        "kuzu güveç"
+        "badem unlu lavaş"
       ],
       "eslesmeyenTarifler": [
         "zeynep şentürk / 22-28 eylül 2025",
@@ -1155,6 +1111,7 @@
         "akşam (tercihen hava kararınca)",
         "kıymalı kabak / taze fasulye (100 gr kıyma ile)",
         "ev yoğurdu",
+        "borani (yoğurtlu ıspanak)",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
         "sucuklu yumurta (50 gram kasap sucuk + 1 yumurta ile)",
@@ -1203,6 +1160,7 @@
         "badem unlu lavaş",
         "bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
+        "kuzu güveç",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
         "turşu (organik, ev yapımı)",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
@@ -1276,12 +1234,6 @@
           "kartResmi": "ispanakli_mantar_dolmasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/ispanakli_mantar_dolmasi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -1387,8 +1339,7 @@
         "yulaf lavaş 1 adet",
         "kabak çorbası",
         "ispanaklı mantar dolması",
-        "yulaf lavaş 1 adet",
-        "tavuk güveç"
+        "yulaf lavaş 1 adet"
       ],
       "eslesmeyenTarifler": [
         "zeynep şentürk / 29 eylül -5 eki̇m 2025",
@@ -1460,6 +1411,7 @@
         "salatalık (orta boy), 4-5 yaprak marul, 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
         "çiğ badem (10 adet)",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
@@ -1483,7 +1435,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "patlıcanlı tavuk sote",
@@ -1532,12 +1484,6 @@
           "kartResmi": "hellim_peynirli_ispanak.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hellim_peynirli_ispanak.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "avokado ve rokalı salata",
-          "kartResmi": "avokado_ve_rokali_salata.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/avokado_ve_rokali_salata.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "sulu köfte",
@@ -1651,7 +1597,6 @@
         "köfte",
         "hellim peynirli ıspanak",
         "haşhaş ezmesi ekmeği (1 dilim)",
-        "avokado ve rokalı salata",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "sulu köfte"
       ],
@@ -1715,6 +1660,7 @@
         "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük domates, limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
         "akşam (tercihen hava kararınca)",
         "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "avokado ve rokalı salata",
         "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpşn)",
         "turşu (organik, ev yapımı)",
         "pazar",
@@ -1780,18 +1726,6 @@
           "kartResmi": "lupin_unlu_kek.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/lupin_unlu_kek.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "yoğurtlu tavuk salata",
-          "kartResmi": "yogurtlu_tavuklu_salata.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yogurtlu_tavuklu_salata.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
-          "tarifAdi": "kuzu güveç",
-          "kartResmi": "kuzu_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "patlıcan tava",
@@ -1891,7 +1825,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1903,9 +1837,7 @@
         "lupin unlu ekmek (1 dilim)",
         "alinazik kebabı",
         "lupin unlu kek (1 dilim için)",
-        "yoğurtlu tavuk salata",
         "lupin unlu ekmek (1 dilim)",
-        "kuzu güveç",
         "lupin unlu kek (1 dilim için)",
         "lupin unlu ekmek (1 dilim)",
         "lupin unlu ekmek (1 dilim)",
@@ -1952,6 +1884,7 @@
         "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı",
         "ceviz (3 adet)",
         "akşam (tercihen hava kararınca)",
+        "yoğurtlu tavuk salata",
         "tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
         "turşu (organik, ev yapımı)",
         "çilek",
@@ -1964,6 +1897,7 @@
         "çiğ badem (10 adet)",
         "lupin unlu ekmek (1 dilim)",
         "akşam (tercihen hava kararınca)",
+        "kuzu güveç",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
         "lupin unlu kek (1 dilim için)",
         "turşu (organik, ev yapımı)",
@@ -1996,6 +1930,6 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-03T14:57:18.238Z",
+  "sonGuncelleme": "2025-10-09T14:43:43.262Z",
   "githubKaydedildi": true
 }
