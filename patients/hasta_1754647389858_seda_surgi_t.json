@@ -2374,7 +2374,7 @@
       "pdfYolu": "pdfs/SEDA SÜRGİT 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEDA SÜRGİT 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEDA SÜRGİT 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:52:49.426Z",
+      "kayitTarihi": "2025-10-09T14:05:51.691Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2535,8 +2535,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Seda Hanım merhaba,\n\nPazartesi günü itibariyle onuncu haftaya başlıyoruz. Geçtiğimiz hafta çok yoğun geçtiğini, programa tam olarak uyum sağlayamadığınızı ancak hafta sonu sonrasında yeniden disiplinli bir şekilde devam etmeyi planladığınızı paylaşmıştınız. Bu yaklaşım oldukça sağlıklı ve gerçekçi. Programın esas amacı; günlük hayattaki dalgalanmalara rağmen süreci sürdürülebilir hâle getirebilmek. Siz de bunu başarmaya devam ediyorsunuz.\n\nBu hafta itibariyle beslenme düzenimizde bazı önemli değişiklikler oluyor. Ketojenik dönemi geride bırakıyor, düşük karbonhidrat düzeyli ama daha esnek ve sürdürülebilir bir beslenme modeline geçiyoruz. Bu geçişin lipödemdeki iltihaplanmayı azaltıcı etkisi ketojenik kadar güçlüdür, ancak günlük yaşamda devam ettirilebilirliği daha yüksektir. Listede yavaş yavaş baklagiller, karabuğday, yulaf gibi glutensiz tahıllar ve mevsim meyveleri küçük porsiyonlarla yer almaya başlıyor. Bu sayede hem posa (lif) alımımız artıyor hem de bağırsaklarımızın dengesi desteklenmiş oluyor.\n\nBu haftaki listenin içeriğinde karabuğday ekmeği, tatlı patates, elma, hurma topları gibi glisemik yükü dengeli, lif oranı yüksek öğelere yer verildi. Bu besinler; tokluk süresini uzatırken kan şekeri dengesini korumaya yardımcı olur. Ayrıca kabaklı börek, kıymalı sebze yemekleri ve zeytinyağlı fasulye gibi tarifler de hem lezzetli hem de sindirimi destekleyici yapısıyla öne çıkıyor. Günlük alınan kollajen, ceviz, tahin gibi besinler ise hem mikrosirkülasyonu destekler hem de bağ dokusunu güçlendirerek lipödem tedavisinde yardımcı olur.\n\nBu süreçte masaj ve egzersiz uygulamalarına yeniden zaman ayırabildiğinizi umuyorum. Özellikle bu haftadan itibaren programa lipödem egzersizleri de dahil oldu. Masajın etkisini artırmak ve lenf akışını düzenlemek için hareketlerin yavaş, yüzeysel ve yeterince uzun süreli uygulanması çok önemli. Daha önce gönderdiğimiz masaj takvimine uyum sağladığınız sürece sonuçlar çok daha belirgin olacaktır.\n\nKendinizi nasıl hissediyorsunuz? Kıyafetlerde bir rahatlama, vücutta incelme fark ediyor musunuz? Bu hafta sonu ölçümleri yeniden değerlendirerek daha net yorum yapabiliriz. Süreçteki bu dalgalanmalar normaldir; önemli olan genel uyum ve devamlılıktır. Destekle ilerlediğiniz sürece sonuçların sizi mutlu edeceğine inanıyorum. 🌿",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2646,6 +2646,6 @@
   ],
   "olusturmaTarihi": "2025-08-08T10:03:09.858Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:02:15.676Z",
+  "sonGuncelleme": "2025-10-09T14:05:51.692Z",
   "githubKaydedildi": true
 }
