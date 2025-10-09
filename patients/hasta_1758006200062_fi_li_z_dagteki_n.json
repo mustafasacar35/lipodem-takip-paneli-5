@@ -793,7 +793,7 @@
       "pdfYolu": "pdfs/FİLİZ DAĞTEKİN 13-19 EKİM 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FİLİZ DAĞTEKİN 13-19 EKİM 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FİLİZ DAĞTEKİN 13-19 EKİM 4. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:41:11.937Z",
+      "kayitTarihi": "2025-10-09T09:04:16.638Z",
       "tarifKartlar": [
         {
           "tarifAdi": "çıtır tavuk (tarifin yarısını tüketelim)",
@@ -925,8 +925,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Filiz Hanım,\n\nPazartesi günü itibariyle dördüncü haftaya başlıyoruz. Öncelikle geçtiğimiz hafta süt ürünlerine geçişinizin vücudunuzda nasıl bir etki yarattığını merak ediyorum. Özellikle ishal şikayetinizin bu hafta azalmış olmasını umuyorum. Eğer devam ediyorsa, yoğurt ve peynir miktarını bir süre azaltabilir, tercihen probiyotik içeriği yüksek yoğurtları daha ölçülü tüketebiliriz.\n\nBu dönemde bağırsak florasının dengelenmesi zaman alabilir. Geçici hassasiyetler bu süreçte normaldir, çünkü sindirim sistemi eliminasyon sürecinin ardından yeniden yapılanmaya başlıyor. Vücut, bir anlamda “temizlenmiş” bir düzende yeni gıdaları sindirmeyi öğreniyor.\n\nYemek listeniz bu haftadan itibaren hem çeşit hem de mikrobesin açısından daha zengin. Sabahları hâlâ kurşun geçirmez kahveyle güne başlıyoruz; bu, yağ metabolizmasını aktive ederek sabah saatlerinde enerjiyi sabit tutmayı sağlıyor. Öğle öğünlerinde avokadolu omlet, lupin unlu poğaça veya yumurtalı sebze yemekleri gibi sağlıklı yağ ve protein dengesini koruyan alternatifler var. Lupin unu, yüksek lif ve bitkisel protein içeriğiyle hem tokluk süresini uzatır hem de bağırsak hareketlerini destekler.\n\nAkşam öğünlerinde çıtır tavuk, patlıcan kebabı, karnabahar mantısı gibi yemekler ödemin çözülmesine yardımcı sebze çeşitliliğini artırırken, kolajen takviyesiyle birlikte bağ dokusunun güçlenmesini destekliyor. Kollajen, özellikle lipödemli dokuda elastikiyetin korunması açısından önemlidir. Semizotu, ıspanak, roka gibi yeşilliklerin sık yer alması da magnezyum ve potasyum dengesini destekler; bu mineraller kas gevşemesi, dolaşım ve sindirim fonksiyonları için kilit rol oynar.\n\nBu haftaki beslenme planında yer alan avokado, tahin, zeytinyağı gibi yağ kaynakları; hem insülin dengesini korur hem de antiinflamatuar etki gösterir. Doyurucu öğünler sayesinde ara atıştırmalıklara ihtiyaç duymadan, vücudun enerji kullanımını daha verimli hale getiriyoruz.\n\nGenel olarak bu haftaki plan, artık süt ürünlerinin eklendiği, sindirim sisteminin yeniden denge kazandığı ve vücudun toparlanma evresine geçtiği bir dönem. İncelme süreciniz devam ederken, tartıda zaman zaman sabit kalma olursa bunun normal bir ara faz olduğunu hatırlatalım. Çünkü bu haftalarda vücut su-tuz dengesini yeniden kurar, aynı zamanda dokular arasında yeniden yapılanma olur.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1020,6 +1020,6 @@
   ],
   "olusturmaTarihi": "2025-09-16T07:03:20.062Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:51:58.224Z",
+  "sonGuncelleme": "2025-10-09T09:04:16.639Z",
   "githubKaydedildi": true
 }
