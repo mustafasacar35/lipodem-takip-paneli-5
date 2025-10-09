@@ -2190,7 +2190,7 @@
       "pdfYolu": "pdfs/GÜLDEN UĞUR 13-19 EKİM 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLDEN UĞUR 13-19 EKİM 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLDEN UĞUR 13-19 EKİM 11. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:55:05.335Z",
+      "kayitTarihi": "2025-10-09T13:53:36.295Z",
       "tarifKartlar": [
         {
           "tarifAdi": "patlıcan kebabı",
@@ -2335,8 +2335,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Gülden Hanım merhaba,\n\nOn birinci haftaya başlıyoruz. Geçen hafta itibariyle düşük karbonhidrat düzeyli beslenme düzenine geçiş yapmıştık; bu hafta da aynı yapı korunarak devam ediyoruz. Sürecin sizin açınızdan nasıl ilerlediğini, son birkaç gününüzü nasıl geçirdiğinizi merak ediyorum.\n\nBu haftaki listeniz yine inflamasyonu azaltıcı, protein ve sağlıklı yağlardan dengeli bir yapı sunacak şekilde planlandı. Örneğin, öğle öğünlerinde yer verdiğimiz yumurta ve peynir kombinasyonları hem uzun süreli tokluk sağlarken hem de D vitamini ve kolin gibi lipödemli bireylerde eksikliği sık görülen mikrobesinleri destekler. Kahvaltılık kuru soğanlı lor kavurması gibi tariflerde ise hem prebiyotik özellik taşıyan soğanın etkisinden hem de lor peyniriyle gelen kalsiyum ve protein desteğinden yararlanmayı amaçladık.\n\nAkşam öğünlerinde yine düşük karbonhidrat içeriği korunurken, ıspanak borani, yoğurtlu kabak gibi hem sindirimi kolay hem de antioksidan etkisi yüksek sebzelere yer verildi. Özellikle borani gibi yoğurtla birleşen sebze tarifleri bağırsak bariyerini destekleyici etki oluşturabilir. Kollajen desteğini bu hafta iki farklı akşam öğününde tekrar hatırlatmak istedik; böylece hem cilt altı doku sağlığına katkı sunulacak hem de protein hedefini destekleyecektir.\n\nKarabuğday ekmeğini bu hafta ölçülü şekilde sürdürdük. İçeriğindeki lif ve magnezyum sayesinde glisemik kontrolü desteklerken, bağırsak hareketlerine katkısı da hedeflenmiştir. Ancak porsiyon miktarı ve zamanlaması bu etkiyi dengeleyebilmek açısından önemlidir. Günlük ortalama 5000 adım hedefini mümkün olduğunca sürdürmeye çalışmanız da bu süreçte ödem kontrolü ve dolaşım açısından önemini koruyor.\n\nBu hafta da aynı düzeni sürdürebilirseniz, egzersiz ve masaj uygulamalarını da ihmal etmeden ilerlediğiniz takdirde, ilerleyen haftalarda çok daha net sonuçlar elde edeceğimizi söyleyebiliriz. Sağlık durumunuzun da düzeldiğini umuyorum; geçtiğimiz haftaki yorgunluk ve yoğunluk devam ediyor mu?\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2440,6 +2440,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-05T07:50:46.448Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T13:44:06.771Z",
+  "sonGuncelleme": "2025-10-09T13:53:36.296Z",
   "githubKaydedildi": true
 }
