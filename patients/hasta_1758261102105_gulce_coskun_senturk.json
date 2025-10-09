@@ -755,7 +755,7 @@
       "pdfYolu": "pdfs/GÜLCE GONCA ŞENTÜRK 13-19 EKİM 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLCE GONCA ŞENTÜRK 13-19 EKİM 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLCE GONCA ŞENTÜRK 13-19 EKİM 4. HAFTA.pdf",
-      "kayitTarihi": "2025-10-09T08:35:09.565Z",
+      "kayitTarihi": "2025-10-09T08:40:22.965Z",
       "tarifKartlar": [
         {
           "tarifAdi": "çıtır tavuk (tarifin yarısını tüketelim)",
@@ -881,8 +881,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Gülce Hanım,\n\nNasılsınız? Umarım her şey yolundadır. Pazartesi itibarıyla dördüncü haftaya başlıyoruz. İlk üç haftada uyguladığımız eliminasyon ve bağırsak dengeleme sürecinin ardından, artık vücudunuz yeni beslenme düzenine büyük ölçüde uyum sağlamış durumda. Bu haftaki plan, metabolizmanın istikrar kazanmasına ve enerji üretiminin dengelenmesine destek olacak şekilde hazırlandı.\n\nSüt ürünleri artık düzenli olarak listede yer alıyor; tulum ve kaşar peyniri gibi fermente seçenekler, hem protein hem de kalsiyum kaynağı olarak kas ve bağ dokularınızı destekliyor. Özellikle D vitamini ve çinko ile birlikte çalıştığında, bu besinler hem bağışıklık hem de damar bütünlüğü açısından önem taşıyor.\n\nSabahları migreni tetikleyebilecek uyarıcı içeceklerden kaçınmak, bu dönemde faydalı olabilir. Kahve yerine yarım avokado, bir yemek kaşığı tahin, zeytinyağı veya 10 adet zeytin gibi sağlıklı yağ kaynaklarıyla güne başlamak da benzer şekilde uzun süreli tokluk sağlar. Bu yağlar aynı zamanda beyin fonksiyonlarını destekleyerek kan şekeri dengesini korur, bu da migren ataklarının sıklığını azaltmaya yardımcı olabilir. İnflamasyonun azalmasıyla birlikte bazı hastalarda migren belirtilerinin gerilediğini gözlemliyoruz — bu tıbbi olarak bireye özgü bir değişim olsa da, doğru beslenme düzeninin etkili olabileceğini biliyoruz.\n\nHaftalık listenizdeki öğünler oldukça dengeli bir yapıda ilerliyor. Avokadolu omlet, yumurtalı ıspanak kavurma, çıtır tavuk ve somon gibi protein açısından zengin ana yemekler enerji dengenizi korurken, haşhaş ezmeli ekmek ve lupin unlu poğaça gibi öğeler lif ve doygunluk hissini artırıyor. Lorlu veya lupin unlu poğaça tariflerini daha önce paylaştığımız atıştırmalıklar arasında hatırlarsınız; bu hafta onları da listeye dahil ettik. Bu tür alternatifler, ara öğün yerine geçebilecek sağlıklı atıştırmalıklar olarak kriz anlarını kontrol altında tutmanıza yardımcı olur.\n\nAyrıca patlıcan kebabı, karnabahar mantı ve tavuk güveç gibi sebze ağırlıklı ana yemekler hem sindirim sistemini rahatlatır hem de lif içeriğiyle bağırsak hareketlerini destekler. Her gün mutlaka eklediğimiz yeşillikler —roka, maydanoz, dereotu, marul, kırmızı lahana— potasyum ve magnezyum içerikleri sayesinde ödemin çözülmesini kolaylaştırır.\n\nBu haftanın bir diğer önemli destek unsuru kollajen. Özellikle 4. ve 5. haftalarda kollajen desteği, cilt altı dokunun sıkılaşmasına ve elastikiyetin artmasına katkı sağlar. Ceviz, badem, kabak çekirdeği gibi sağlıklı yağ kaynaklarıyla birlikte tüketilmesi bu etkinin artmasına yardımcı olur.\n\nMigren açısından da önemli bir detay; bu tarz sağlıklı yağ ve mineral dengesi, sinir sistemi üzerindeki aşırı uyarılmayı azaltabilir. Bu nedenle düzenli su tüketimi (günde en az 2 litre) ve yürüyüş (ortalama 5000 adım) bu hafta da büyük önem taşıyor.\n\nBeslenme düzeniniz, vücudunuzun doğal dengeye yaklaşmasını sağlayacak biçimde ilerliyor. İnflamasyonun azalması yalnızca lipödem açısından değil, genel sağlık ve kronik hastalıklar bakımından da iyileştirici etki yaratır. Bu süreçte düzenli ilerlediğinizde, hem ödem hem de baş ağrısı gibi belirtilerin hafiflediğini fark edeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -976,6 +976,6 @@
   ],
   "olusturmaTarihi": "2025-09-19T05:51:42.105Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:35:28.577Z",
+  "sonGuncelleme": "2025-10-09T08:40:22.966Z",
   "githubKaydedildi": true
 }
