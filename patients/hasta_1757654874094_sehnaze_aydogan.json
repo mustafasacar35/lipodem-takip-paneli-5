@@ -54,12 +54,6 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "kuzu güveç",
-          "kartResmi": "kuzu_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "domatesli kabak çorbası",
           "kartResmi": "domatesli_kabak_corbasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/domatesli_kabak_corbasi.jpg",
@@ -202,7 +196,6 @@
         "tahin ekmeği (1 dilim)",
         "kıymalı ıspanak / kabak yemeği",
         "tahin ekmeği (1 dilim)",
-        "kuzu güveç",
         "tahin ekmeği (1 dilim)",
         "domatesli kabak çorbası"
       ],
@@ -293,6 +286,7 @@
         "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon+1 tatlı kaşığı zeytinyağı ile)",
         "bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
+        "kuzu güveç",
         "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı",
         "fındık (20 adet)",
         "kollajen (1 ölçek 10 gram)",
@@ -344,18 +338,6 @@
           "kartResmi": "tavuklu_mantar_sote.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuklu_mantar_sote.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
-          "kartResmi": "kiymali_kabak_yemegi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
-          "tarifAdi": "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
-          "kartResmi": "patlican_musakka.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "yumurtalı ıspanak /pazı /semizotu",
@@ -473,7 +455,6 @@
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
         "tavuklu mantar sote (150 gr tavuk ile)",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
-        "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
         "yumurtalı ıspanak /pazı /semizotu",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
         "közlenmiş patlıcan salatası",
@@ -516,6 +497,7 @@
         "zeytin (5 adet)",
         "ceviz (5 adet)",
         "akşam (tercihen hava kararınca)",
+        "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
         "mevsim salata (marul, dereotu, kırmızı lahana, kuzu kulağı +1 yemek kaşığı zeytinyağı)",
         "kabak çekirdeği (1 avuç)",
         "kollajen (1 ölçek 10 gram)",
@@ -590,7 +572,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "kabak çökertme kebabı (1 porsiyonda 150 gr kıyma ile)",
@@ -615,12 +597,6 @@
           "kartResmi": "izgara_kabak_rulolari.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/izgara_kabak_rulolari.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "ispanaklı ya da pazılı tavuk dolması(150 gr tavuk ile)",
-          "kartResmi": "ispanakli_tavuk_dolmasi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/ispanakli_tavuk_dolmasi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "köfte",
@@ -748,7 +724,6 @@
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "kıymalı taze fasulye",
         "izgara kabak ruloları",
-        "ispanaklı ya da pazılı tavuk dolması(150 gr tavuk ile)",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "köfte",
         "cevizli biber yoğurtlaması",
@@ -822,6 +797,7 @@
         "ceviz (5 adet)",
         "zeytin (10 adet)",
         "akşam (tercihen hava kararınca)",
+        "ispanaklı ya da pazılı tavuk dolması(150 gr tavuk ile)",
         "yeşil salata (marul, dereotu,maydanoz, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
         "turşu (organik, ev yapımı)",
         "kollajen (1 ölçek 10 gram)",
@@ -869,9 +845,9 @@
         },
         {
           "tarifAdi": "tavuklu hünkar beğendi",
-          "kartResmi": "hunkar_begendi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hunkar_begendi.jpg",
-          "eslesmeTuru": "ardışık eşleşme"
+          "kartResmi": "tavuklu_hunkar_begendi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuklu_hunkar_begendi.jpg",
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "kaşarlı kabak graten",
@@ -1154,12 +1130,6 @@
           "eslesmeTuru": "ardışık eşleşme"
         },
         {
-          "tarifAdi": "kuzu güveç",
-          "kartResmi": "kuzu_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "közlenmiş patlıcan salatası",
           "kartResmi": "kozlenmis_patlican_salatasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kozlenmis_patlican_salatasi.jpg",
@@ -1274,7 +1244,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1285,7 +1255,6 @@
         "tavuklu kabak noodle",
         "lor ekmeği (1 dilim)",
         "cevizli toplar",
-        "kuzu güveç",
         "közlenmiş patlıcan salatası",
         "cevizli toplar",
         "kabak çorbası",
@@ -1338,6 +1307,7 @@
         "fındık (10 adet)",
         "bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
+        "kuzu güveç",
         "cevizli toplar",
         "cuma",
         "öğle (tercihen saat 12:00 civarında)",
@@ -1378,6 +1348,6 @@
   ],
   "olusturmaTarihi": "2025-09-12T05:27:54.094Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-03T14:47:08.836Z",
+  "sonGuncelleme": "2025-10-09T09:04:29.507Z",
   "githubKaydedildi": true
 }
