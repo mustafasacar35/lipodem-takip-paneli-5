@@ -1322,7 +1322,7 @@
       "pdfYolu": "pdfs/MERAL GERÇEK 13-19 EKİM 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/MERAL GERÇEK 13-19 EKİM 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/MERAL GERÇEK 13-19 EKİM 6. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:47:35.443Z",
+      "kayitTarihi": "2025-10-09T09:26:57.193Z",
       "tarifKartlar": [
         {
           "tarifAdi": "domatesli kabak çorbası",
@@ -1446,8 +1446,8 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Pazartesi günü itibariyle altıncı haftaya başlıyoruz. Diyetiniz genel olarak iyi gidiyor; ancak mesajınızda böbrek sorunları, fibromiyalji ve boyun–omuz bölgesindeki yırtık nedeniyle biraz endişeli olduğunuzu belirtmiştiniz. Bu rahatsızlıkların hepsi aslında aynı kökten, yani vücuttaki kronik inflamatuar yükten etkileniyor. Bu nedenle son haftalarda yaptığımız beslenme düzeni, tam da bu tabloyu hedefleyen bir yapı oluşturuyor. Enflamasyon azaldıkça hem ağrıların hem de kas–eklem hassasiyetlerinin yavaş yavaş hafiflemesi beklenir.\n\nBu dönemde yeterli sıvı alımı, magnezyum ve potasyum yönünden zengin sebzelerin tüketimi özellikle önemli. Böbreklerin rahat çalışması için günlük su miktarınızı 2 litrenin altına düşürmemeye özen gösterin. İdrar renginizde belirgin bir koyulaşma fark ederseniz, gün içindeki su miktarınızı biraz daha artırabilirsiniz. Ayrıca, ödemin çözülmesiyle birlikte kaslarda ve eklemlerde sıkışma hissinin azalması da zamanla belirginleşecektir.\n\nAltıncı haftanın listesinde yumurta, peynir ve lor gibi kaliteli protein kaynaklarıyla birlikte kabak, ıspanak, pancar, yeşil fasulye, semizotu gibi lifli sebzeler yer alıyor. Bu sebzeler hem antioksidan hem de magnezyum içeriğiyle kas gevşetici ve inflamasyon azaltıcı etki sağlar. Özellikle yoğurtlu tavuk salata, yoğurtlu pancar salatası ve borani gibi fermente süt ürünleriyle hazırlanmış yemekler bağırsak florasını destekler; bu da bağışıklık sisteminin dengede kalmasına yardımcı olur.\n\nBalık, köfte, tavuk gibi ana protein kaynaklarıyla birlikte planlanan salatalar, C vitamini, çinko ve sağlıklı yağ desteği sağlar. Bu kombinasyonlar bağ dokusunun onarımını desteklediği gibi, lipödemli dokularda kan akışını da iyileştirir. Bu hafta öğünlerde dikkat çeken tahin–ceviz karışımı da E vitamini ve antioksidanlar açısından oldukça güçlü bir destek sunuyor.\n\nProgramın bu noktasında artık vücudunuzu yalnızca kilo verme açısından değil, hücresel düzeyde iyileştirme aşamasındayız. Yani asıl onarım içeriden başlıyor. Damar, kas ve bağ dokusunu etkileyen inflamasyonun yavaşlamasıyla birlikte hem ağrı hem de ödem yükü azalacak. Boyun ve omuz bölgesindeki yırtıklar da bu genel iyileşme sürecinden fayda görecektir; sabırlı olmanız yeterli.\n\nListeyi aynen sürdürün, ekstra takviye veya ilaç kullanımı konusunda şu aşamada herhangi bir değişiklik yapmanıza gerek yok. Beslenme planınız zaten dolaşım ve damar sağlığı açısından koruyucu bir yapıda. Özellikle haftanın ilerleyen günlerinde çorba, sebzeli yemekler ve yoğurtlu tabaklar bu dengeyi destekleyecek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1553,6 +1553,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T14:52:21.234Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T09:23:34.695Z",
+  "sonGuncelleme": "2025-10-09T09:26:57.194Z",
   "githubKaydedildi": true
 }
