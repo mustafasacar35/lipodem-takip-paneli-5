@@ -1244,7 +1244,7 @@
       "pdfYolu": "pdfs/EŞMEN KAYA ALPARSLAN 13-19 EKİM 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EŞMEN KAYA ALPARSLAN 13-19 EKİM 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EŞMEN KAYA ALPARSLAN 13-19 EKİM 6. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:47:22.607Z",
+      "kayitTarihi": "2025-10-09T09:19:18.429Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -1386,8 +1386,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Eşmen Hanım,\n\nPazartesi itibarıyla altıncı haftaya başlıyoruz. Artık sisteminiz iyice oturdu, vücudunuzun bu düzene verdiği yanıtı daha net hissedebileceğiniz bir döneme girdik. Bu hafta beslenme planınızda, mikro besinlerden en iyi şekilde yararlanmayı hedefliyoruz. Çünkü lipödemde yalnızca makro besinlerin değil, vitamin ve minerallerin dengesi de iyileşme sürecinde çok önemli bir rol oynar.\n\nListede yer alan yumurta, peynir, yeşil yapraklı sebzeler, balık ve kuruyemişler, her biri farklı mikro besin gruplarını desteklemek için yerleştirildi. Yumurta ve peynir, B12 ve selenyum kaynağı olarak enerji üretimine katkı sağlar. Balık, omega-3 desteğiyle dokulardaki yangıyı azaltır. Yeşillikler – özellikle roka, maydanoz ve dereotu – C vitaminiyle demir emilimini artırırken, zeytinyağlı salatalar dolaşımı destekler. Kuruyemişler ve avokado, magnezyum ve potasyum desteğiyle hem ödemin çözülmesine hem de kas rahatlamasına yardımcı olur.\n\nSabahları uyguladığınız ılık su, zeytinyağı, limon ve elma sirkesi karışımı hem sindirimi hem de karaciğer fonksiyonlarını destekler. Güne bu şekilde başlamak, metabolizmanın canlı kalmasına yardımcı olur. Öğünlerde salata–protein–diğer içerikler sırasına dikkat etmeniz, özellikle akşam yemeklerinden sonra ödemin azalmasını kolaylaştırır.\n\nLenf drenaj masajı uygulamalarınızı bu hafta da düzenli sürdürmenizi istiyorum. Masaj, yüzeyel lenf akışını hızlandırarak dokularda biriken sıvının atılmasına yardımcı olur. Böylece hem ödem çözülür hem de bacaklarda hissedilen basınç azalır. Gün içinde kısa ama düzenli seanslar ayırmak yeterlidir. Masajın dolaşımı hızlandırıcı etkisi, yürüyüşlerle birleştiğinde çok daha güçlü sonuçlar verir. Akşam yemeklerinden sonra 15–20 dakikalık hafif yürüyüşler bu açıdan faydalı olacaktır.\n\nÖğünleri eksiksiz tamamlamanız, metabolik hızın korunması açısından çok önemli. Az yemek vücudu “tasarruf moduna” sokar; bu durumda ısı üretimi azalır, yağ yakımı yavaşlar, halsizlik hissedilir. Bu nedenle öğünleri atlamamaya özen gösterin. İş yerindeyken yumurta yerine küçük bir zeytinyağlı ton balığı konservesi tüketebilirsiniz; bu miktar yaklaşık iki–üç yumurtaya denk gelir.\n\nKeten tohumu ekmeğinden yapılan ketojenik tost günlerinde, lezzeti artırmak için kaşar miktarını biraz artırabilir veya içine ince dilim domates ekleyebilirsiniz. Bu tür ufak dokunuşlar, diyeti hem keyifli hem de sürdürülebilir hale getirir.\n\nBacaklarınızdaki yanma hissinin azalması, vücuttaki inflamasyonun gerilemeye başladığının bir göstergesi. Bu durum, düzenli masaj ve beslenmenin birlikte etkili olduğunu gösteriyor. Bu hafta sonu ölçümlerinizi – özellikle bel, kalça ve bacak çevresi ölçülerinizi – paylaşabilirseniz, ilerlemeyi birlikte değerlendirebiliriz.\n\nAyrıca nasıl hissettiğinizi de merak ediyorum. Kıyafetlerinizde bir fark hissettiniz mi, bacaklarınızda hafifleme oldu mu? Bu gözlemler sürecin gidişatı açısından en az ölçümler kadar önemli.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da bekliyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1485,6 +1485,6 @@
   ],
   "olusturmaTarihi": "2025-09-03T09:45:53.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T09:15:10.856Z",
+  "sonGuncelleme": "2025-10-09T09:19:18.430Z",
   "githubKaydedildi": true
 }
