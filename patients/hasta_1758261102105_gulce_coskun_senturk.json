@@ -881,7 +881,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "Merhaba Eda Hanım,\n\nPazartesi günü itibarıyla dördüncü haftaya başlıyoruz. Artık beslenme düzeninizin temel yapısı oturdu, vücudunuz düşük karbonhidratlı düzene uyum sağladı. Bu haftadan itibaren hedefimiz metabolizmayı canlı tutmak ve öğün dengesini koruyarak daha istikrarlı bir ilerleme sağlamak olacak.\n\nTatlı ve hamur işi isteğinizin zaman zaman arttığını belirtmiştiniz. Bu nedenle geçtiğimiz hafta size sağlıklı atıştırmalık tariflerinden birkaç örnek göndermiştik. Bunları deneme fırsatınız oldu mu? Bitter çikolata, ceviz, badem gibi içeriklerle hazırlanan bu tarifler, kan şekerini dalgalandırmadan tatlı isteğini dengelemeye yardımcı olur. Özellikle lipödemde ani şeker yükselmelerinden kaçınmak, ödemin kontrolü açısından önemlidir.\n\nBu hafta menülerde protein ve lif dengesinin korunduğunu görüyoruz. Öğle öğünlerinde avokadolu omlet, lupin unlu veya lorlu poğaça gibi seçenekler var. Bu öğünler hem doyurucu hem de metabolizmayı destekleyici içeriklere sahip. Lor ve tulum peyniri gibi fermente süt ürünleri sindirimi kolay, probiyotik etkili seçeneklerdir. Yumurta ile birlikte alındığında aminoasit dengesi güçlenir.\n\nAkşam öğünlerinde patlıcanlı tavuk sote, patlıcan kebabı, tavuk güveç ve bonfile gibi seçenekler yer alıyor. Bu öğünlerdeki protein kaynakları kas dokusunu korurken, eşlik eden sebze yemekleri lif ve potasyum desteği sağlar. Özellikle patlıcan, kabak ve semizotu gibi sebzeler ödem atımını destekleyen potasyum açısından zengindir.\n\nListede ev yapımı turşu, yoğurt ve semizotu salatası gibi fermente ve prebiyotik içeriğe sahip yiyeceklerin yer alması da bağırsak florası açısından önemli. Bu tür gıdalar, üçüncü haftadan itibaren başladığımız probiyotik takviyelerle birlikte çalışarak bağırsak florasını dengelemeye devam eder.\n\nBu dönemde kilo kaybının hızında bir yavaşlama fark edebilirsiniz, ancak bu normaldir. İlk haftalardaki hızlı değişimden sonra vücut artık yeni enerji dengesine uyum sağlar. Bu, bir duraklama değil, yeniden yapılanma evresidir. Tartıya değil, özellikle bel, kalça ve bacak ölçülerindeki farklara odaklanmak gerekir. Sıkılaşma ve hacim kaybı bu haftalarda daha belirgin hale gelir.\n\nAkşam öğünlerinden sonra kısa süreli bir yürüyüş yapmak hem sindirimi kolaylaştırır hem de insülin dengesine destek olur. Günlük 2 litrenin üzerinde su içmeye, 5000 adım hedefini sürdürmeye ve ara öğünlerde maden suyu tüketmeye devam etmenizi öneririm.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve tarifleri deneyimlerinizi paylaşmanızı da merak ediyorum.",
+      "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -976,6 +976,6 @@
   ],
   "olusturmaTarihi": "2025-09-19T05:51:42.105Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:35:18.017Z",
+  "sonGuncelleme": "2025-10-09T08:35:28.577Z",
   "githubKaydedildi": true
 }
