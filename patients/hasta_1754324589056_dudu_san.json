@@ -2354,7 +2354,7 @@
       "pdfYolu": "pdfs/DUDU ŞAN 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/DUDU ŞAN 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/DUDU ŞAN 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:50:50.944Z",
+      "kayitTarihi": "2025-10-09T13:58:28.239Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2504,8 +2504,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Dudu Hanım merhaba,\n\nYeni haftaya geçmeden önce geçtiğimiz haftaya kısaca değinmek isterim. Zaman zaman programdan uzaklaşmak ya da motivasyonun azalması herkesin yaşayabileceği bir durum. Mevsim geçişleri ve hastalıklarla birlikte bu tür zorlanmalar olabilir, bu sürecin doğal bir parçası. Önemli olan kaldığınız yerden devam edebilmek ve bunu siz çok güzel başarıyorsunuz. Pazartesi gününden itibaren sürecimizde 10. haftaya başlıyoruz ve programda önemli bir değişiklik yapıyoruz: artık düşük karbonhidrat düzeyli beslenme düzenine geçiyoruz.\n\nBu geçiş, vücudun enerji dengesini daha sürdürülebilir bir forma sokarken, lipödemde enflamasyonun baskılanması açısından da son derece önemli. Ketojenik düzene göre biraz daha esnek bir yapıdayız ancak hâlâ insülin dengesini korumaya ve inflamatuvar yükü düşürmeye devam ediyoruz. Düşük karbonhidrat düzeyi, özellikle bağ dokusu içinde sıkışmış yağ yapılarında gözlenen ödemin çözülmesine katkı sağlar ve iyileşmeyi hızlandırır. \n\nBu haftaki listenizde ketojenik düzenden farklı olarak karabuğday ekmeği gibi düşük glisemik indeksli karbonhidrat kaynaklarına yer veriyoruz. Bunlar hem bağırsak hareketliliği açısından lif desteği sağlar hem de tatmin hissini artırarak duygusal yeme davranışlarını azaltır. Öğle öğünlerinde *kabaklı börek*, *dereotlu poğaça*, *yumurta salatası* gibi öğelerle hafif ve dengeli bir yapı kurduk. Akşam öğünlerindeyse protein kalitesi yüksek, antiinflamatuar etkili ana yemeklerle (kuzu güveç, ciğer kavurma, fırında balık gibi) bağ dokusu yapısının onarımını desteklemeyi sürdürüyoruz.\n\nSebzeli güveçler, yeşil salatalar, deniz börülcesi ve semizotu gibi antioksidan kapasitesi yüksek sebzeler ödem kontrolüne yardımcı olurken; mevsim yeşillikleriyle oluşturulan tabaklar da vücut için gerekli mikrobesinleri doğal formda almanızı sağlıyor. Bu dönemde kollajen takviyesini de akşam öğünlerine ekliyoruz. Bu hem cilt altı dokunun daha sıkı ve esnek hâle gelmesini sağlar hem de protein ihtiyacını destekler.\n\nTatlı isteği ile ilgili olarak, bu haftadan itibaren birkaç farklı doğal çözümümüz bulunuyor: *browni kurabiye*, *elma* ya da *tahinli-cevizli atıştırmalıklar* gibi örnekleri planlı ve ölçülü şekilde menüye dahil ettik. Bu tür tatlı alternatifleri ile duygusal yeme eğilimini dengelemek mümkün olabiliyor.\n\nBeşinci haftada başladığımız lenfatik drenaj masajının, bu dönemde de haftalık en az 2-3 kez yapılması faydalı olur. Masaj uygulamaları yüzeysel lenf sistemi harekete geçirirken, dokuzuncu haftadan itibaren başlayan egzersizler daha derin lenf yollarını uyarır. Bu iki uygulama birlikte yapıldığında, lipödemde en önemli basamak olan dolaşım desteğini güçlü şekilde tamamlar.\n\nSon olarak, bu hafta sonu bize ölçümlerinizi gönderirseniz yeniden değerlendirme yapabiliriz. Özellikle bel, kalça, diz gibi bölgelerdeki incelme süreci lipödem tedavisinde doğrudan kilo kaybından daha öncelikli bir gösterge olarak kabul edilir. Çünkü temel hedefimiz yalnızca kilo vermek değil; inflamasyonun azaltılması, bağ dokusunun yenilenmesi ve doku bütünlüğünün yeniden sağlanmasıdır. Bu mekanizmalar oturmaya başladığında, incelme çok daha belirgin şekilde gözlemlenecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Sürecin nasıl gittiğini, masaj ve egzersizlere yeterli vakit ayırıp ayıramadığınızı da merak ediyorum.\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2618,6 +2618,6 @@
   ],
   "olusturmaTarihi": "2025-08-04T16:23:09.056Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T13:54:36.151Z",
+  "sonGuncelleme": "2025-10-09T13:58:28.240Z",
   "githubKaydedildi": true
 }
