@@ -2368,7 +2368,7 @@
       "pdfYolu": "pdfs/SEDA ŞENGÜN 13-19 EKİM 13. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEDA ŞENGÜN 13-19 EKİM 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEDA ŞENGÜN 13-19 EKİM 13. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T16:05:42.143Z",
+      "kayitTarihi": "2025-10-09T12:45:55.360Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -2554,8 +2554,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Seda hanım merhaba, nasılsınız? Umarım her şey yolundadır.\n\nPazartesi günü itibariyle on üçüncü haftaya başlıyoruz. Öncelikle önceki günlerde gönderdiğiniz görseller ve ölçüm verilerindeki değişim oldukça dikkat çekiciydi; kıyafetlerdeki rahatlamayı siz de hissetmişsinizdir. Bu somut değişikliklerin, sadece dış görünüş değil, hücresel düzeyde sağlıklı bir dönüşümün de işareti olduğunu vurgulamak isterim. Bu hafta artık programımızın son haftası, ancak sürecin sonu değil; aslında bundan sonra bu yeni düzeni sürdürülebilir bir yaşam tarzına dönüştürme süreci başlıyor.\n\nHazırladığımız bu haftaki beslenme planı da, bugüne kadar kazandığınız düzene destek olacak şekilde oluşturuldu. Yine düşük karbonhidrat düzeyini koruyan, ancak öğün yapısında çeşitliliğe ve mikrobesin dengesine özellikle dikkat ettiğimiz bir listeyle ilerliyoruz. Örneğin; haftanın farklı günlerinde kullanılan karabuğday ekmeği, lif dengesi ve bağırsak düzeni açısından önemli bir katkı sağlarken; C vitamini, flavonoidler ve antioksidanlardan zengin roka, tere, kırmızı biber gibi sebzelerle hazırlanan salatalar, dokuların yenilenmesi ve ödemin atılması açısından destekleyici rol oynuyor.\n\nLifli sebzeler ve fermente süt ürünlerini birlikte kullandığımız akşam öğünleri —örneğin yoğurtlu semizotu salatası ya da yoğurtlu salatalık mezesi gibi— hem sindirim sistemini destekler hem de lipödem dokusundaki inflamatuar yükü azaltmaya yardımcı olabilir. Toz kollajen desteğini haftanın üç gününe yayarak hem protein dengesini hem de bağ dokusu sağlığını desteklemeyi hedefledik. Kolajen, sadece cilt görünümü açısından değil, aynı zamanda lenfatik dolaşım, bağ dokusu bütünlüğü ve doku elastikiyeti açısından da önemlidir. \n\nSebzeli omlet, kıymalı mantar dolması ve yeşil mercimekli kek gibi protein zengini öğünler, bu haftaki planın hem tok tutma kapasitesini artırıyor hem de glukoz dalgalanmalarını azaltarak tatlı krizlerini dengelemeye yardımcı oluyor. Bu şekilde akşam sonrası zamanlarda oluşabilecek duygusal yeme ataklarının da önüne geçilebilir.\n\nProgram boyunca gösterdiğiniz ilgi ve sorularınızla süreci ne kadar sahiplendiğinizi görmek değerliydi. Zaman zaman kaçamaklar, isteksizlikler ya da yavaş giden dönemler olabilir; bu sürecin doğasında var. Ancak bu tür dönemlerde bile kalıcı değişimlerin bir gecede değil, sabırla ve sürdürülebilir adımlarla gerçekleştiğini hatırlamak gerekir.\n\nMasajlar ve egzersizlerle ilgili katkınızı da yakından izledik. Lipödemli dokularda dolaşımı ve hücreler arası sıvı hareketini desteklemek için egzersizle birlikte yapılan yüzeyel ve nazik masajlar, özellikle bu haftalarda daha da anlam kazanıyor. Yavaş, kontrollü ve süreklilik içeren masaj uygulamalarının, kalıcı incelmede en etkili yaklaşımlardan biri olduğunu tekrar vurgulamak isterim.\n\nProgram boyunca uyguladığımız sistem, kısa süreli diyetler gibi geçici bir etkiden ziyade; hormon dengesini, bağışıklık sistemini ve vücut kompozisyonunu yeniden yapılandırmayı hedefleyen bir yapıya sahipti. Bu haftadan sonra bu planı biraz daha esneterek, ama temel ilkeleri koruyarak sürdürmek mümkün olacak. Gerekirse ilerleyen günlerde yeniden değerlendirme ile destekleyici yeni bir plan oluşturabiliriz.\n\nBu son hafta içerisinde kendinizi nasıl hissettiğinizi, uyku düzeninizin nasıl olduğunu, egzersiz ve masaj uygulamalarına hâlâ zaman ayırıp ayıramadığınızı, su tüketiminizin nasıl gittiğini ve kıyafetlerdeki rahatlamaların devam edip etmediğini paylaşırsanız, birlikte değerlendirme yapabiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı merak ediyorum.\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2659,6 +2659,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-03T12:29:19.049Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T12:42:17.785Z",
+  "sonGuncelleme": "2025-10-09T12:45:55.362Z",
   "githubKaydedildi": true
 }
