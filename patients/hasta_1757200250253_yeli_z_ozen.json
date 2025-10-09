@@ -1217,7 +1217,7 @@
       "pdfYolu": "pdfs/YELİZ ÖZEN 13-19 EKİM 6. HAFTA (2).pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/YELİZ ÖZEN 13-19 EKİM 6. HAFTA (2).pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/YELİZ ÖZEN 13-19 EKİM 6. HAFTA (2).pdf",
-      "kayitTarihi": "2025-10-07T08:12:50.007Z",
+      "kayitTarihi": "2025-10-09T09:14:27.747Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -1362,8 +1362,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Yeliz Hanım,\n\nAltıncı haftaya başlıyoruz. Geçen hafta nasıldı, masajlara biraz zaman ayırabildiniz mi? Günlük yoğunluk içinde bazen araya sıkıştırmak zor olabiliyor ama ne kadar düzenli yapabilirsek o kadar fark ediyor.\n\nMasajı kısa süreli, 15–20 dakikalık uygulamalar şeklinde yaptığınızda bile etkisini hissedersiniz. Ama eğer zamanı biraz uzatabilir, 30–40 dakikalık seanslar halinde yapabilirseniz, dokularda yumuşama ve ödem azalması çok daha belirgin olur. Biz genellikle lenf drenaj masajına düzenli ve biraz daha uzun süreli devam eden hastalarda incelmenin çok daha hızlı ve kalıcı hale geldiğini görüyoruz.\n\nTabii burada süre kadar önemli bir başka nokta da doğru teknik. Videolarda gösterilen sırayı ve basınç düzeyini mümkün olduğunca aynı şekilde uygulamaya çalışın. Bu teknik, sadece yüzeydeki lenf akışını değil, derin dokulardaki lenf yollarını da aktive ediyor. Böylece vücutta sıvı dolaşımı rahatlıyor, ödemin tekrar birikmesi engelleniyor.\n\nLipödemli bölgelerde (bacak, basen, diz çevresi gibi) genişleyen yağ hücreleri lenf kanallarına baskı yapıyor. Bu baskı ortadan kalktığında dokular rahatlıyor, oksijenlenme artıyor, hatta ağrı ve dolgunluk hissi de azalıyor. Düzenli masajla birlikte beslenmeyi aynı çizgide sürdürdüğünüzde, incelme artık sadece ölçümlerde değil aynada da net fark edilir hale geliyor.\n\nZaman zaman bize yönelttiğiniz sorulardan, süreci yakından takip ettiğiniz belli oluyor. Bu dikkatli yaklaşım çok kıymetli. Çünkü sadece listeye uymanız değil, neyi neden yaptığınızı anlamanız sürecin kalıcı hale gelmesini sağlıyor. Siz bu farkındalığı kazandıkça bu sistem artık bir “diyet programı” değil, kendi yaşam biçiminizin bir parçası olacak.\n\n📋 Altıncı haftanın listesi\nBu hafta plan, inflamasyonu azaltmaya ve metabolik dengeyi korumaya devam ediyor:\n\nSabah öğünleri yumurta, peynir, zeytin ve yeşilliklerden oluşuyor. Yumurta ve peynirin D vitamini, B12 ve selenyum içeriği bağ dokusunu destekliyor. Yeşilliklerdeki C vitamini ve antioksidanlar ise damar geçirgenliğini azaltarak ödemin önüne geçiyor.\n\nAkşam öğünlerinde balık, tavuk, kıymalı sebze yemekleri ve gratenler var. Bu menüler düşük karbonhidratlı, proteinden zengin yapısıyla hem yağ yakımını sürdürüyor hem de kas kütlesini koruyor. Özellikle balık günlerinde alınan omega-3, lenf dolaşımını rahatlatır.\n\nSebzeler (kabak, ıspanak, karnabahar, roka, kırmızı lahana) potasyum açısından zengin; vücuttaki sıvı dengesini düzenleyerek şişkinliği azaltır.\n\nSağlıklı yağlar (zeytinyağı, ceviz, badem, avokado) hem insülin dengesini korur hem de gün boyu enerji sağlar.\n\nKollajen akşam öğünlerinde devam ediyor; cilt altı dokusunun toparlanmasına katkı sağlar.\n\nFermente gıdalar (yoğurt, turşu) ve probiyotik-prebiyotik destekler bağırsak florasını güçlendiriyor, bu da inflamasyonun azalmasına doğrudan katkı veriyor.\n\nBu dönemde artık sisteminiz tamamen oturdu. Beslenme, masaj ve genel ritim birbirini destekliyor. Bundan sonraki haftalarda, özellikle dokuzuncu haftadan itibaren eklenecek egzersizlerle bu etkileri çok daha net göreceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Masaj süresi ve etkisiyle ilgili gözlemlerinizi paylaşırsanız çok sevinirim.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1464,6 +1464,6 @@
   ],
   "olusturmaTarihi": "2025-09-06T23:10:50.253Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T09:09:38.038Z",
+  "sonGuncelleme": "2025-10-09T09:14:27.748Z",
   "githubKaydedildi": true
 }
