@@ -2295,7 +2295,7 @@
       "pdfYolu": "pdfs/YASEMİN VARLIOĞLU 13-19 EKİM 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/YASEMİN VARLIOĞLU 13-19 EKİM 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/YASEMİN VARLIOĞLU 13-19 EKİM 11. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:56:52.753Z",
+      "kayitTarihi": "2025-10-09T13:43:28.949Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
@@ -2442,8 +2442,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Yasemin Hanım merhaba,\nPazartesi günü itibariyle yeni haftaya başlıyoruz. Tüm bu süreci tatilde bile sürdürebilmiş olmanız, aslında bu değişimin artık günlük hayatınıza ne kadar entegre olduğunu gösteriyor. Yanınızda götürdüğünüz ketojenik atıştırmalıklarla dışarıda da kaçamak yapmadan ilerlemiş olmanız, bu programı sadece bir “diyet listesi” gibi değil, gerçek bir yaşam tarzı değişimi olarak içselleştirdiğinizin göstergesi. Bu tutumun, uzun vadeli sonuçlar açısından en güçlü etken olduğunu düşünüyoruz.\n\nBu hafta sonu göndereceğiniz ölçümlerle birlikte sürecin geldiği noktayı daha net görebileceğiz. Şimdiye kadarki gözlemlerimizde zaten kıyafetlerdeki rahatlamayla, incelmedeki ilerlemeyle bu değişim hissedilir oldu. Kalıcı değişiklikler, işte tam da böyle istikrarlı dönemlerin üzerine inşa ediliyor. Ölçümlerde birkaç santimetrelik farklılıklar bazen dışarıdan fark edilmeyebilir ama uzun vadede bu farklar bir araya gelince çok daha görünür değişimler yaratıyor.\n\nBu hafta da beslenme planımız düşük karbonhidrat düzeyinde ilerliyor. İlk dönemki ketojenik düzeyden daha esnek bir yapıya geçmiş olsak da hâlâ şekersiz, glütensiz ve işlenmemiş gıdalarla besleniyoruz. Bu geçişin amacı; hem sürdürülebilirliği artırmak hem de enflamasyonu kontrol altında tutmaya devam etmek. Yani bir yandan daha rahat menüler görüyorken, diğer yandan hâlâ vücuda destek olan bir çizgideyiz.\n\nÖğünlerde çeşitlilik dikkat çekiyor: Kabak, fasulye, patlıcan gibi sebzelerle yapılmış proteinli yemekler, balık ve kırmızı et alternatifleri, karabuğday ekmeği gibi glütensiz eşlikçiler ve ara öğün yerine geçen maden suyu gibi destekleyiciler… Hepsi yine sizin yaşam akışınıza uyumlu şekilde planlandı. Dışarıda yemek yemeniz gereken bir durumda örneğin akşam yemeğinde ızgara et veya balık tercih edip yanına bol yeşillikli bir salata ekleyerek programın dışına çıkmadan ilerleyebilirsiniz. Otel kahvaltılarında yumurta, peynir, zeytin gibi temel bileşenleri seçerek de benzer bir yapı kurulabilir.\n\nSon olarak, lenf drenaj masajı bu dönemde hâlâ çok önemli. Seyahatte olsanız da her gün kısa da olsa bu uygulamaya vakit ayırabilirseniz, dolaşım ve ödem yönetimi açısından ciddi katkı sağlayacaktır. Bu hafta kendinizi nasıl hissettiğinizi, kıyafetlerde bir değişim fark edip etmediğinizi bize yazarsanız çok seviniriz.\n\nHer zaman olduğu gibi desteğimiz sizinle. Güzel bir hafta dilerim.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2554,6 +2554,6 @@
       ]
     }
   ],
-  "sonGuncelleme": "2025-10-09T13:38:26.444Z",
+  "sonGuncelleme": "2025-10-09T13:43:28.950Z",
   "githubKaydedildi": true
 }
