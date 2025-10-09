@@ -2246,7 +2246,7 @@
       "pdfYolu": "pdfs/SELVER KURU 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SELVER KURU 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SELVER KURU 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:53:27.191Z",
+      "kayitTarihi": "2025-10-09T14:20:07.761Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı kabak böreği 1dilim için",
@@ -2413,8 +2413,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Selver Hanım merhaba,\n\nOnuncu haftaya geldik. Bu haftadan itibaren artık düşük karbonhidrat (low-carb) beslenme düzenine geçiyoruz. Ketojenik döneme göre karbonhidrat oranı kontrollü şekilde artırıldı; bu değişim, sürecin sürdürülebilirliğini artırmak ve uzun vadede metabolizmayı dengelemek için önemli bir aşama. Artık mevsim meyveleri, baklagiller, yulaf ve karabuğday gibi glütensiz karbonhidrat kaynakları kademeli olarak devreye giriyor. Bu besinler, lif ve antioksidan içerikleri sayesinde hem sindirim sistemini destekler hem de lipödemde inflamasyonun baskılanmasına katkı sağlar.\n\nÖlçümlerinize baktığımızda, bel çevresinde 3 cm, kalça çevresinde 4 cm’ye yakın bir incelme var. Üst bacak ve diz çevresindeki azalma da gayet anlamlı. Kilo olarak bakıldığında 85,6 kg’dan 79,1 kg’a düşüş olmuş — bu, yalnızca rakamsal değil, dokulardaki ödemin çözülmesiyle birlikte gözle görülür bir değişimin göstergesi. Lipödemde asıl hedef, yağ ve sıvı dokusunun birlikte dengelenmesi olduğundan, bu tablo son derece olumlu.\n\nBu haftaki menünüz, hem inflamasyonu azaltıcı hem de metabolizmayı destekleyici içeriklerle planlandı. Karabuğday ekmeği, glütensiz yapısı ve yüksek magnezyum içeriğiyle dolaşımı desteklerken, zeytinyağlı fasulye, semizotu ve ıspanaklı börek gibi öğünler antioksidan kapasiteyi artırıyor. Protein kaynakları (yumurta, peynir, balık, tavuk, ciğer) kas kütlesini koruyor; badem, ceviz ve tahin gibi sağlıklı yağlar, tokluk süresini uzatıyor ve enerji dengesine katkı sağlıyor.\n\nBu geçiş döneminde amaç, ketojenik düzende elde edilen kazanımları kalıcı hale getirmek. Artık vücudunuz enerji üretiminde daha esnek; hem yağ hem de sınırlı karbonhidratı verimli kullanabiliyor. Bu yapı, lipödemde inflamasyonu azaltırken hormonal dengeyi korumanız açısından da çok önemli.\n\nMasaj ve egzersizlerinizi sürdürmeye devam edebilirsiniz. Bu uygulamalar, karbonhidrat geçiş döneminde dolaşımı destekleyerek ödemin tekrar birikmesini önler.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Ölçümlerinizdeki bu ilerleme sürecin doğru yönde ilerlediğini gösteriyor, gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2525,6 +2525,6 @@
   ],
   "olusturmaTarihi": "2025-08-12T08:59:53.464Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:16:14.165Z",
+  "sonGuncelleme": "2025-10-09T14:20:07.762Z",
   "githubKaydedildi": true
 }
