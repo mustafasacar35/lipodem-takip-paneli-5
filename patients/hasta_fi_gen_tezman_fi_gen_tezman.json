@@ -2003,7 +2003,7 @@
       "pdfYolu": "pdfs/FİGEN TEZMAN 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FİGEN TEZMAN 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FİGEN TEZMAN 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:51:31.253Z",
+      "kayitTarihi": "2025-10-09T13:37:39.607Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2164,8 +2164,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Figen Hanım merhaba,\n\nOnuncu haftaya başlıyoruz. Beslenme sistemimizde bu haftadan itibaren ketojenik yapıdan daha düşük karbonhidratlı ama biraz daha esnek bir düzene, yani low-carb beslenmeye geçiyoruz. Bu geçişi, sürecin sürdürülebilirliğini kolaylaştırmak ve uzun vadede bir yaşam tarzı haline getirmek için planladık. Yeni düzende baklagiller, mevsim meyveleri, yulaf veya karabuğday gibi glutensiz tahıllar kontrollü şekilde öğünlere dahil ediliyor. Glisemik yükü düşük olan bu seçenekler sayesinde hem barsak florası desteklenmiş oluyor hem de karbonhidrat toleransı kademeli olarak artırılabiliyor.\n\nListenizdeki öğünleri de bu bakışla hazırladık. Örneğin, fırında kabaklı börek hem lifli hem de düşük glisemik bir öğün alternatifi sunarken; mantarlı omlet, kıymalı bamya ve kuzu güveç gibi protein ağırlıklı ana yemekler, dokuların onarım sürecine destek oluyor. Karabuğday ekmeği, glütensiz yapısıyla bağırsak geçirgenliğini artırmadan enerji desteği sağlar. Tatlı alternatifi olarak yer verdiğimiz browni kurabiyeler veya hurma topları da tatlı ihtiyacını dengelemeye yardımcı olurken, plan dışına çıkma ihtimalini azaltmak amacıyla menüye eklendi.\n\nMevsim geçişine uyumlu olarak semizotu, roka, kabak, lahana gibi antioksidan ve potasyumdan zengin sebzelere geniş yer verildi. Bu sebzeler hem ödemin atılmasını kolaylaştırır hem de hücresel düzeydeki inflamasyonu baskılar. Yine akşam öğünlerinde verilen kolajen desteği, hem cilt hem de cilt altı bağ dokusunun yenilenmesine katkı sağlamayı sürdürüyor.\n\nGeçtiğimiz hafta gönderdiğiniz ölçümlerde belirgin bir incelme gördük. Bu, kilo kaybından daha da önemli bir gelişme çünkü lipödem tedavisinde hedefimiz yalnızca tartıdaki rakamı değiştirmek değil; dokuların yapısal bütünlüğünü iyileştirmek, dolaşımı rahatlatmak ve ağrıyı azaltmak. Bu nedenle kas, yağ, ödem ayrımını iyi yaparak süreci takip ediyoruz. Egzersizlerle birlikte desteklediğimizde bu kazanımların daha da kalıcı hâle geleceğini söyleyebiliriz.\n\nMotivasyonunuzu koruduğunuz sürece bu sürecin çok daha iyi ilerleyeceğine inanıyoruz. Bir sonraki hafta itibariyle programa egzersizler de eklenecek. Böylece 5. haftada başladığımız manuel lenf drenaj masajlarının etkisini, özellikle yüzeyel ve derin lenf akımının birlikte çalışmasıyla daha da artırmayı hedefleyeceğiz. Masaj uygulamalarına hâlâ zaman ayırabiliyorsanız, bu egzersizlerle birlikte ödemin çözülmesinde daha da belirgin bir ilerleme görebiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2273,6 +2273,6 @@
       ]
     }
   ],
-  "sonGuncelleme": "2025-10-09T13:34:29.322Z",
+  "sonGuncelleme": "2025-10-09T13:37:39.608Z",
   "githubKaydedildi": true
 }
