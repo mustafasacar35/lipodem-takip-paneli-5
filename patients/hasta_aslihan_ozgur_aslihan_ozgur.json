@@ -2138,7 +2138,7 @@
       "pdfYolu": "pdfs/ASLIHAN ÖZGÜR 13-19 EKİM 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ASLIHAN ÖZGÜR 13-19 EKİM 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ASLIHAN ÖZGÜR 13-19 EKİM 11. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:54:00.962Z",
+      "kayitTarihi": "2025-10-09T13:34:13.329Z",
       "tarifKartlar": [
         {
           "tarifAdi": "patlıcan kebabı",
@@ -2293,8 +2293,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Aslıhan Hanım merhaba,\n\nArtık tarla işleri büyük ölçüde tamamlandığı için, günlük düzeninizi biraz daha rahat oluşturabileceğiniz bir döneme girmiş olabilirsiniz. Bu konfor alanı, programın daha istikrarlı ilerlemesi açısından büyük bir avantaj. Önümüzdeki süreci bu açıdan bir fırsat olarak görebiliriz. Dinlenme, kendinize vakit ayırma ve günlük rutinleri daha net oturtma konusunda biraz daha elinizin rahatlayacağını tahmin ediyoruz.\n\nOn birinci haftadan itibaren artık hem fiziksel hem de fizyolojik olarak programın iç dinamiklerine daha kolay uyum sağlanabiliyor. Bu uyumun bir parçası olarak, bu haftaki beslenme planını da hem çeşitlilik hem de denge açısından biraz daha zenginleştirdik. Yoğurtlu mezeler, az miktarda meyve kullanımı ve haftanın bazı günlerinde kontrollü karbonhidrat içeren seçeneklerle düşük karbonhidratlı beslenmeyi sürdürürken aynı zamanda damak tadınızı da gözetmeye çalıştık.\n\nListeye göz attığınızda; pazılı tavuk dolması, yoğurtlu kabak mezesi, kıymalı semizotu yemeği, göçmen salatası gibi hem lezzetli hem de mikrobesin yönünden güçlü içeriklerin yer aldığını görebilirsiniz. Ispanak ve yoğurt gibi hem demir hem de kalsiyum içeriği yüksek besinler, bağ dokusu sağlığı açısından lipödem yönetiminde kıymetli rol oynar. Aynı zamanda bu haftada da kollajen takviyesi devam ediyor; bu da cilt altı dokunun desteklenmesi ve ödemin azaltılması sürecini destekliyor.\n\nBunlara ek olarak, mevsim yeşillikleri, sağlıklı yağ kaynakları (zeytin, avokado, zeytinyağı gibi) ve protein dengesi korunmuş ana öğünler, tokluk süresini uzatarak insülin dalgalanmalarının önüne geçiyor. Bu, özellikle lipödemde görülebilen ani tatlı isteklerinin azaltılmasına da yardımcı olur. Bu hafta yine ketojenik pizza ve browni kurabiye gibi alternatiflerle bu yönü desteklemeye çalıştık.\n\nEgzersiz ve lenf drenaj masajının önemini bir kez daha hatırlatmak isteriz. Egzersizle yüzeyel lenf sistemi, masaj ile derin lenf yolları aktive ediliyor; birlikte uygulandığında ödem kontrolü çok daha başarılı oluyor. Eğer hâlâ yürüyüşlerinize ya da masaj uygulamalarına düzenli zaman ayırabildiyseniz, etkilerini bu hafta daha belirgin hissedebilirsiniz.\n\nDilerseniz ölçümlerinizi de bizimle paylaşabilirsiniz, bu süreçte kıyafetlerinizde fark ettiğiniz değişimler varsa onları da duymak isteriz. Özellikle lipödemde kilo yerine hacim kaybı daha anlamlıdır; çünkü yağ dokusu parçalanması, tartıdaki sayıdan çok kıyafetin duruşunda kendini gösterir.\n\nGeçtiğimiz haftalarda tüketmekte zorlandığınız ya da damak tadınıza uymayan yemekleri de not aldık. Önümüzdeki haftalarda listeyi bu doğrultuda düzenlemeye devam edeceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2402,6 +2402,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-03T13:18:07.291Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T13:31:07.993Z",
+  "sonGuncelleme": "2025-10-09T13:34:13.331Z",
   "githubKaydedildi": true
 }
