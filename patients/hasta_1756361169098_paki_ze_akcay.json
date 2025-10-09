@@ -1323,7 +1323,7 @@
       "pdfYolu": "pdfs/PAKİZE AKÇAY 13-19 EKİM 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/PAKİZE AKÇAY 13-19 EKİM 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/PAKİZE AKÇAY 13-19 EKİM 6. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:47:47.734Z",
+      "kayitTarihi": "2025-10-09T14:38:03.663Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -1458,8 +1458,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba,\n\nPazartesi itibarıyla altıncı haftaya başlıyoruz. Geçen hafta gönderdiğiniz ölçümlerde gayet iyi sonuçlar gördük. Özellikle bel ve kalça çevresindeki azalma, lipödemli dokularda inflamasyonun azaldığını ve vücudun artık daha dengeli çalışmaya başladığını gösteriyor. Bu şekilde kararlı ilerlemek, kalıcı değişiklikleri çok daha kolay hale getiriyor.\n\nAltıncı hafta, mikrobesinlerin öne çıktığı bir dönem. Yani artık sadece ne kadar yediğimiz değil, yediklerimizin hücre düzeyinde ne taşıdığı önemli. Vücudun enerjisini üretmesi, bağ dokusunun güçlenmesi, lenf sisteminin daha iyi çalışması için bu küçük ama etkili besin öğeleri devreye giriyor.\n\nListede yumurta, peynir, balık, et, yeşil sebzeler ve kuruyemişler dengeli şekilde yer alıyor.\n\nYumurta ve peynir, D vitamini, selenyum ve B12 ile hem kas hem sinir sistemini destekler.\n\nBalık, omega-3 yağ asitleriyle damar sağlığını korur ve inflamasyonu azaltır.\n\nKırmızı et, çinko ve demir içerikleriyle bağ dokusunun onarımı ve dolaşım için değerlidir.\n\nYeşil sebzeler (roka, pazı, ıspanak, kabak, biber) lif ve magnezyum kaynağıdır; bu da bağırsak düzenini destekler ve ödemin azalmasına yardımcı olur.\n\nKuruyemişler (badem, ceviz, fındık) magnezyum, çinko ve E vitamini sağlar; kas gevşemesi, enerji üretimi ve cilt dokusunun onarımı için gereklidir.\n\nBu haftaki plan aynı zamanda bağışıklık sistemini de güçlendiriyor. Özellikle domates, semizotu, limon ve yeşil yapraklı sebzelerdeki C vitamini, kollajen üretimiyle birlikte ciltte sıkılaşmaya ve dokularda toparlanmaya katkı sağlıyor. Akşam öğünlerinden sonra alınan kollajen takviyesiyle bu etki daha da belirginleşir.\n\nDüşük karbonhidratlı yapısını koruyan öğünler, insülin dengesini koruyarak yağ yakımının devam etmesine olanak tanıyor. Öğünleri eksiksiz tamamlamak bu haftada da çok önemli; az yemek ya da öğün atlamak metabolizmayı yavaşlatabilir.\n\nPakize Hanım’ın motivasyonunu koruyarak bu şekilde ilerlemesi, hem kilo kontrolü hem de lipödemin gerilemesi açısından oldukça değerli. Bu haftayı düzenli uyguladığında enerji seviyesinde de fark hissedecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerini ve bu haftaki deneyimlerini duymak isterim.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1554,6 +1554,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:34:34.331Z",
+  "sonGuncelleme": "2025-10-09T14:38:03.665Z",
   "githubKaydedildi": true
 }
