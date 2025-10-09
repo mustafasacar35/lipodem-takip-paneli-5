@@ -1816,7 +1816,7 @@
       "pdfYolu": "pdfs/BEYZA MUTLUBAŞ 13-19 EKİM 8. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BEYZA MUTLUBAŞ 13-19 EKİM 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BEYZA MUTLUBAŞ 13-19 EKİM 8. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:54:22.327Z",
+      "kayitTarihi": "2025-10-09T14:34:20.877Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -1978,8 +1978,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Beyza Hanım,\n\nPazartesi gününden itibaren sekizinci haftaya başlıyoruz. Bu dönemde artık beslenme düzeninizin yerleşmeye başladığını ve vücudunuzun sürece daha dengeli yanıt verdiğini düşünüyorum. İlk haftalardaki adaptasyon sürecinden sonra artık enerji dengesinin ve metabolik düzenin daha istikrarlı ilerlediği bir evreye girmiş bulunuyoruz.\n\nBu haftadan itibaren öğünlerin sıralamasına biraz daha dikkat etmenizi istiyorum. Yemeğe yeşilliklerle başlamak, ardından protein kaynaklarını almak ve en son yağlı sebze ya da ekmek benzeri içeriklerle tamamlamak insülin dengesini daha kontrollü hale getirir. Yemekten hemen önce yarım bardak suya karıştırılmış elma sirkesi içmek de bu dengeyi destekler.\n\nListede protein kaynakları oldukça dengeli. Yumurta, tavuk, köfte, balık ve kırmızı et öğünleri kas ve bağ dokusunu besler; çinko ve B12 içeriğiyle tiroid fonksiyonlarını destekler. Balık günleri, omega-3 yağ asitleri sayesinde inflamasyonu azaltıcı etki gösterir. Yoğurtlu sebze mezeleri ve peynirli seçenekler, kontrollü miktarlarda kalsiyum ve probiyotik desteği sağlar. Süt ürünleri sonrası şişkinlik veya ödem fark ederseniz, bunu not etmeniz ilerleyen haftalarda planlamayı kolaylaştıracaktır.\n\nSebze çeşitliliği bu hafta da oldukça geniş. Roka, semizotu, kabak, biber ve domates gibi lifli sebzeler sindirimi düzenler, ödemin atılmasına yardımcı olur ve C vitamini içeriğiyle kollajen üretimini destekler. Ceviz, badem ve kabak çekirdeği gibi yağlı tohumlar magnezyum açısından zengin olup kas fonksiyonları ve uyku düzeni açısından fayda sağlar. Kollajen desteğine günlük olarak devam etmeniz, cilt altı bağ dokusunun toparlanması için önem taşır.\n\nSekizinci haftada zaman zaman kilo değişiminde duraksama olabilir. Bu durum genellikle vücudun toparlanma ve yeniden yapılanma evresinde görülür. Tartı sabit kalsa da incelme kıyafetlerde fark edilir şekilde devam eder. Bu nedenle bu dönemde tartı yerine ölçümler ve kıyafet hissi daha anlamlı göstergelerdir.\n\nLenf drenaj masajı da bu haftanın önemli bir parçası olmaya devam ediyor. Düzenli uygulandığında yüzeyel lenf akımını artırarak ödemin çözülmesine, dolaşımın güçlenmesine ve dokulardaki gerginliğin azalmasına yardımcı olur. Beslenmeyle birlikte yürütüldüğünde etkisi daha belirgin hale gelir.\n\nBu hafta süt ürünleri sonrası sindiriminiz, ödem durumunuz ve genel enerji düzeyinizde farklar gözlemliyorsanız bunları not etmenizi isterim. Ayrıca kıyafetlerdeki değişim ve genel hislerinizle ilgili gözlemlerinizi paylaşırsanız, ölçümlerle birlikte süreci daha detaylı değerlendirebilirim.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2085,6 +2085,6 @@
   ],
   "olusturmaTarihi": "2025-08-21T14:22:15.649Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:29:16.182Z",
+  "sonGuncelleme": "2025-10-09T14:34:20.878Z",
   "githubKaydedildi": true
 }
