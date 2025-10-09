@@ -2249,7 +2249,7 @@
       "pdfYolu": "pdfs/ECE ALGEL 13-19 EKİM 9. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ECE ALGEL 13-19 EKİM 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ECE ALGEL 13-19 EKİM 9. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:58:17.755Z",
+      "kayitTarihi": "2025-10-09T14:52:48.797Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -2402,8 +2402,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Ece Hanım,\n\nPazartesi günü itibariyle dokuzuncu haftaya başlıyoruz. Bu haftadan itibaren artık lenf drenaj masajlarının yanında lipödem egzersizlerine de geçiyoruz. Size gönderdiğimiz egzersiz takvimine uyarak bu çalışmaları düzenli şekilde uygulamanızı öneriyorum. Masajla yüzeyel lenf yollarını aktif hale getirmiştik; şimdi egzersizlerle derin lenf sistemini devreye sokacağız. Bu iki uygulama birlikte yürüdüğünde vücudun dolaşım kapasitesi artar, ödem çözülmesi hızlanır ve kas altı dokuda belirgin bir toparlanma sağlanır.\n\nGeçtiğimiz haftalarda kilo kaybınızın bir miktar yavaşladığını, ancak ölçümlerinizde bel, kalça ve üst bacak çevresinde incelmenin devam ettiğini görüyoruz. Bu, lipödemde beklediğimiz bir tablo. Bazen tartı sabit kalsa da vücut şekil değiştirir. Bu dönemde kilo yerine ölçümleri takip etmek çok daha anlamlı. Özellikle döngü dönemlerinde vücudun ödeme eğilimli olduğunu da unutmamak gerekiyor; bu nedenle önümüzdeki hafta alacağımız ölçümler daha net bir tablo verecek.\n\nBu haftaki beslenme planınız, kilo verme sürecini yavaşlatmadan dokuların toparlanmasını destekleyecek şekilde hazırlandı. Kıymalı sebze yemekleri, B12 ve demir kaynağı olarak ferritin depolarınızın güçlenmesine katkı sağlar. Yanında verilen limonlu roka veya semizotu salataları C vitamini desteğiyle demir emilimini artırır. Yumurta sarısı ağırlıklı tarifler, A ve D vitamini ile selenyum içeriği sayesinde bağ dokusunun güçlenmesine yardımcı olur. Avokado, zeytin ve zeytinyağından gelen sağlıklı yağlar insülin dengesini korur, açlık ataklarını azaltır. Lifli sebzeler olan kabak, ıspanak ve patlıcan sindirimi rahatlatır, potasyum desteğiyle ödem çözülmesine katkı sağlar.\n\nTatlı isteği olduğunda, size gönderdiğimiz atıştırmalıklardan hazırlayıp dondurucuda saklayabilirsiniz. Bu, ders temposu yoğun günlerde veya stresli dönemlerde pratik bir çözüm olur. Ayrıca ara sıra sade maden suyu ve küçük bir avuç badem veya cevizle günü dengeleyebilirsiniz.\n\nLipödem tedavisinde stres yönetimi de en az beslenme kadar önemli. Bu süreci bir yarış gibi değil, yaşam tarzı değişimi olarak görmek gerekiyor. Düzenli uygulamalar ve sabırla ilerlemek, uzun vadede kalıcı sonuçlar sağlayacak.\n\nPazar günü güncel ölçümlerinizi paylaşırsanız, birlikte değerlendirebiliriz. Gözlemleriniz ve hisleriniz bizim için önemli; bu şekilde süreci size özel biçimde düzenlemeye devam edeceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2508,6 +2508,6 @@
   ],
   "olusturmaTarihi": "2025-08-17T11:50:20.273Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:52:36.080Z",
+  "sonGuncelleme": "2025-10-09T14:52:48.798Z",
   "githubKaydedildi": true
 }
