@@ -2211,7 +2211,7 @@
       "pdfYolu": "pdfs/NEVİN ŞAHAL 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEVİN ŞAHAL 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEVİN ŞAHAL 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:52:13.409Z",
+      "kayitTarihi": "2025-10-09T14:15:57.105Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı kabak böreği 1dilim için",
@@ -2378,8 +2378,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Nevin Hanım merhaba,\n\nPazartesi itibarıyla onuncu haftaya başlıyoruz. Bu haftadan itibaren beslenme düzenimiz artık düşük karbonhidratlı, yani low-carb bir yapıya geçiyor. Bu geçiş, ketojenik dönemin ardından vücudu daha sürdürülebilir bir dengeye taşımak için planlandı. Artık karbonhidrat kaynağı olarak glisemik yükü düşük olan karabuğday, meyve ve baklagiller gibi daha doğal seçeneklere yer veriyoruz. Bu çeşitlilik hem metabolizmanın esnekliğini korur hem de uzun vadede düzenin daha kolay sürdürülebilmesini sağlar.\n\nLipödem bağlamında bakıldığında, düşük karbonhidrat düzeni dokulardaki enflamasyonu azaltır, insülin salınımını dengeleyerek yağ hücrelerinin büyümesini baskılar. Bu sayede alt ekstremite bölgesinde — özellikle basen, bacak ve diz çevresinde — incelme daha belirgin hale gelir. Sizin de özellikle alt bedende bu yönde fark edilir bir değişim gözlemlemiş olmanız, dokulardaki inflamasyonun gerilediğini gösteriyor. Bu da lipödem tedavisinde hedeflediğimiz en önemli kazanımlardan biridir. Çünkü klasik kalori kısıtlamalı diyetlerde bu tip bölgesel incelmeler çok sınırlı kalır; ancak lipödem odaklı beslenmede bağ dokusu onarımı, dolaşım ve lenf akışı birlikte düzenlenir.\n\nBu haftaki listeniz, bu mekanizmaları destekleyecek şekilde planlandı. Pazartesi günkü ıspanaklı kabak böreği ve ciğer kavurma demir, çinko ve folat açısından zengin olup dolaşım ve enerji metabolizmasını destekler. Salı günü tavuk pirzola ve közlenmiş patlıcan salatası, hem düşük karbonhidratlı hem de antioksidan yönüyle güçlü bir kombinasyondur. Çarşamba günü bamya ve karnabahar içeren menü, yüksek lif ve potasyum içeriğiyle ödemin çözülmesine yardımcı olur. Perşembe günü zeytinyağlı fasulye ve kebap, bitkisel–hayvansal protein dengesini sağlar. Cuma günü kuzu güveç ve deniz börülcesi, omega-3 ve iyot katkısıyla dolaşımı desteklerken, akşam eklenen kollajen yalnızca listede yer aldığı günlerde akşamdan sonra alınmalıdır. Cumartesi günü balık, yeşil salata ve tahinli-cevizli karışım, sağlıklı yağlar ve E vitamini ile damar esnekliğini artırır. Pazar günü tavuklu domates çorbası ve köfte, kas ve bağ dokusu onarımını destekleyen yüksek biyoyararlanımlı protein sunar.\n\nMasaj ve egzersizleri ihmal etmemenizi özellikle vurgulamak isterim. Masaj yüzeyel lenf sistemini, egzersiz ise kas pompası aracılığıyla derin lenf akımını harekete geçirir. Bu ikili, beslenmenin sağladığı dokusal iyileşmeyi kalıcı hale getirir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2490,6 +2490,6 @@
   ],
   "olusturmaTarihi": "2025-08-09T14:19:45.310Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:10:50.422Z",
+  "sonGuncelleme": "2025-10-09T14:15:57.107Z",
   "githubKaydedildi": true
 }
