@@ -2344,7 +2344,7 @@
       "pdfYolu": "pdfs/SEVGİ DOĞAN 13-19 EKİM 17. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEVGİ DOĞAN 13-19 EKİM 17. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEVGİ DOĞAN 13-19 EKİM 17. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T16:13:10.256Z",
+      "kayitTarihi": "2025-10-09T14:57:17.750Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -2499,8 +2499,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Sevgi Hanım merhaba,\n\nPazartesi gününden itibaren yeni haftaya başlıyoruz. Süreci düzenli şekilde sürdürüyor olmanız çok kıymetli. Ölçümlerinizdeki değişim, tüm bu emeğin karşılıksız kalmadığını gösteriyor. Kilo zaman zaman durabiliyor ama incelme süreci genelde devam ediyor. Bu dönemlerde motivasyonu korumak, programın sürdürülebilirliği açısından en önemli noktalardan biri. Bazen tek öğün uygulamaları gibi küçük değişikliklerle bu direnç noktalarını aşabiliyoruz. Siz de bunun farkında olarak gayet kararlı şekilde ilerliyorsunuz.\n\nBu hafta listenizde yine ödemle mücadeleyi destekleyen, bağırsak hareketlerini düzenleyen ve tokluk süresini uzatmaya yardımcı içeriklere ağırlık verdik. Özellikle yeşillikler (tere, roka, marul, semizotu, dereotu), yoğurtlu mezeler ve doğal yağ kaynakları (zeytinyağı, ceviz, fındık, badem) bu etkiler açısından önemli. \n\nTurşu da yine neredeyse her akşam öğününde yer alıyor; bu, bağırsağın asidik dengesini korurken prebiyotik etkiyle genel sindirimi de destekliyor. Tahin ekmeği, tokluk süresini uzattığı gibi lif içeriği sayesinde kabızlık eğilimi olan dönemlerde fayda sağlayabilir. Sabahları elma sirkesi ve yağ ile güne başlama düzeniniz de sindirim sistemi açısından oldukça yerinde bir alışkanlık.\n\nKollajen desteğini haftanın birkaç gününde, özellikle akşam öğünlerinde planladık. Cilt altı dokunun yeniden yapılanmasında rol oynayan bu destek, protein dengesine de katkı veriyor. Çarşamba ve Pazar akşamları tatlı alternatifi olarak bitter çikolata ve tahin-ceviz gibi seçenekler eklendi. Bu hem tatlı isteğini bastırmak hem de motivasyonu artırmak açısından işe yarıyor. Önemli olan bu küçük esneklikleri kontrollü ve bilinçli şekilde kullanabilmek.\nMasaj ve yürüyüşlere tekrar düzenli şekilde başladığınızı belirtmiştiniz, bu çok iyi. Günde 5.000 adım civarı bir yürüyüş bu süreçte lenf sisteminin rahatlamasına ciddi katkı sağlıyor.\n\nLipödem bir hormonal yağ dağılım bozukluğu olduğu için yalnızca kilo üzerinden değil, doku kalitesi ve inflamasyon üzerinden de ele almak gerekiyor. Sizin gösterdiğiniz bu özenli yaklaşım, sorunun temeline yönelik adımlar atılmasını sağlıyor. Disiplinli ama esnek bir şekilde ilerledikçe kalıcı değişikliklerin çok daha rahat sağlanabileceğini düşünüyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2612,6 +2612,6 @@
       ]
     }
   ],
-  "sonGuncelleme": "2025-10-09T14:53:03.745Z",
+  "sonGuncelleme": "2025-10-09T14:57:17.751Z",
   "githubKaydedildi": true
 }
