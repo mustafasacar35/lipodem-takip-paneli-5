@@ -21,7 +21,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "köfte",
@@ -34,12 +34,6 @@
           "kartResmi": "patlican_musakka.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -126,7 +120,6 @@
         "patlıcan musakka",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
-        "tavuk güveç",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "köfte",
@@ -168,6 +161,7 @@
         "cherry domates (2 adet)",
         "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke,limon ile)",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "ceviz (3 adet)",
@@ -201,10 +195,27 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ]
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2025-10-12",
+      "bitis": "2025-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2025-10-07T07:45:32.552Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-07T15:37:32.701Z",
+  "sonGuncelleme": "2025-10-09T14:57:26.730Z",
   "githubKaydedildi": true
 }
