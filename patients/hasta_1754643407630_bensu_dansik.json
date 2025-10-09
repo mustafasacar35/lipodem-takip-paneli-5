@@ -2430,7 +2430,7 @@
       "pdfYolu": "pdfs/BENSU DANSIK 13-19 EKİM 10. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BENSU DANSIK 13-19 EKİM 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BENSU DANSIK 13-19 EKİM 10. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:50:11.496Z",
+      "kayitTarihi": "2025-10-09T14:10:36.973Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2592,8 +2592,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Bensu Hanım,\n\nPazartesi itibarıyla programın onuncu haftasına başlıyoruz. Süreci bu zamana kadar oldukça düzenli ve dikkatli takip ettiğinizi görüyoruz. Tariflerle ilgili yorumlarınız, porsiyonlar ve içerik değişimleriyle ilgili sorularınız bu süreci gerçekten sahiplendiğinizi gösteriyor. Bu da aslında bizim en çok önem verdiğimiz konu: Hazırladığımız listelerin sadece geçici bir program değil, sizin yaşam tarzınıza dönüşmesini hedefliyoruz.\n\nBu haftadan itibaren düşük karbonhidratlı ancak ketojenik olmayan bir beslenme planına geçiyoruz. Yani yağ alımı hâlâ önemli olmakla birlikte artık karbonhidrat kaynaklarında bir miktar artış söz konusu. Bu geçişle birlikte örneğin karabuğday ekmeği her gün bir dilim olarak plana dahil edildi. Karabuğday, düşük glisemik indeksli olması ve lif içeriği sayesinde hem bağırsak florasını destekler hem de ani kan şekeri dalgalanmalarını önlemeye yardımcı olur. Bu, özellikle PCOS tanısı olan bireylerde hormonal dengeyi desteklemek açısından da oldukça değerli bir detay.\n\nBu haftaki listemizde dikkat ederseniz sebze çeşitliliği ve lif kaynakları artıyor. Fırında kabaklı börek, közlenmiş patlıcan salatası, semizotu, taze fasulye gibi antiinflamatuar özellikleri yüksek sebzeleri farklı formlarda verdik. Bunlar hem ödem çözümünü destekler hem de bağışıklık sistemini güçlendirir. Protein kaynaklarında tavuk, balık, köfte ve kebap gibi seçeneklerle çeşitlilik sağladık. Bu, hem damak tadına hitap etmek hem de tek tip protein yükünü önlemek açısından planlandı.\n\nTatlı alternatifleri konusunda un helvası damak tadınıza hitap etmemiş olabilir; çok normal. Sufle gibi daha sevdiğiniz tariflerle değişim yapabilirsiniz. Aynı kaloride, aynı makro içeriğe sahip alternatiflerle değiştirerek ilerlemeniz bizim için gayet uygun. Listenizde yer alan atıştırmalıkların makrolarına dikkat ederek uygun bir değişim yapabilirsiniz; bu konuda her zaman size yardımcı olmaktan memnuniyet duyarız.\n\nLenf drenaj masajı ile ilgili daha önce bilgi vermiştik, bu hafta itibarıyla egzersizler de sürece dahil oldu. Lenfatik sistemin en etkili uyarıcısı aslında kas hareketidir. Bu nedenle hafif tempolu yürüyüşler ve özellikle vücut sıvılarını merkeze doğru yönlendirecek egzersizler, lenf dolaşımını destekler. Egzersizlerin videolarını paylaşacağız. Haftada 3–4 gün, 15–20 dakika ayırarak başlanması yeterlidir. Zamanla süre ve yoğunluk artırılabilir. Önemli olan kusursuz yapmak değil, sürdürülebilir biçimde devam ettirmektir.\n\nSon olarak, son ölçümlerinizde tartı değişimlerinin sınırlı olması sizi biraz üzmüş olabilir. Ancak vücut yağlarının parçalanması esnasında oluşan toksin yükü, özellikle karaciğer ve böbrek üzerinden atılırken kısa süreli duraklamalar oldukça olağan. Bu geçici dönemlerde istikrarlı şekilde devam etmek çok daha etkili sonuçlar doğurur. Özellikle bel, basen ve bacak bölgesindeki sıkılaşma ve kıyafetlerdeki rahatlamayı dikkate aldığımızda, hedefe doğru sağlıklı adımlarla ilerlediğinizi gönül rahatlığıyla söyleyebiliriz.\n\nHer zaman olduğu gibi bize takıldığınız durumlarda yazabilirsiniz.\n\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2706,6 +2706,6 @@
   ],
   "olusturmaTarihi": "2025-08-08T08:56:47.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T14:09:04.622Z",
+  "sonGuncelleme": "2025-10-09T14:10:36.974Z",
   "githubKaydedildi": true
 }
