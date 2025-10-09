@@ -262,30 +262,6 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
-          "kartResmi": "kiymali_kabak_yemegi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
-          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
-          "kartResmi": "kiymali_taze_fasulye.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_taze_fasulye.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
-          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
-          "kartResmi": "patlican_musakka.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
-          "tarifAdi": "avokado ve rokalı salata",
-          "kartResmi": "avokado_ve_rokali_salata.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/avokado_ve_rokali_salata.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "yumurtalı ıspanak /pazı /semizotu",
           "kartResmi": "yumurtali_ispanak.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yumurtali_ispanak.jpg",
@@ -400,8 +376,6 @@
         "tavuklu mantar sote (150 gr tavuk ile)",
         "tereyağlı kabak",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
-        "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
-        "avokado ve rokalı salata",
         "yumurtalı ıspanak /pazı /semizotu",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
         "közlenmiş patlıcan salatası",
@@ -442,6 +416,8 @@
         "zeytin (5 adet)",
         "ceviz (5 adet)",
         "akşam (tercihen hava kararınca)",
+        "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+        "avokado ve rokalı salata",
         "kabak çekirdeği (1 avuç)",
         "kollajen (1 ölçek 10 gram)",
         "perşembe",
@@ -522,12 +498,6 @@
           "kartResmi": "tahin_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tahin_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tavuk güveç",
-          "kartResmi": "tavuk_guvec.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
@@ -663,7 +633,7 @@
         "tahi̇n ekmeği̇ yeri̇ne(bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin ya da 20 adet"
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -672,7 +642,6 @@
         "yoğurtlu kabak mezesi",
         "tahin ekmeği (1 dilim)",
         "tahin ekmeği (1 dilim)",
-        "tavuk güveç",
         "tahin ekmeği (1 dilim)",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "tavuklu domates çorbası",
@@ -718,6 +687,7 @@
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
         "fındık (10 adet)",
         "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
         "tahin ekmeği (1 dilim)",
         "kollajen (1 ölçek 10 gram)",
@@ -769,6 +739,6 @@
   ],
   "olusturmaTarihi": "2025-09-27T09:59:35.048Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-03T14:36:04.147Z",
+  "sonGuncelleme": "2025-10-09T07:43:14.305Z",
   "githubKaydedildi": true
 }
