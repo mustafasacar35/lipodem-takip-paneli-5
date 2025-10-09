@@ -498,7 +498,7 @@
       "pdfYolu": "pdfs/YAĞMUR GÜLMEZ 13-19 EKİM 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/YAĞMUR GÜLMEZ 13-19 EKİM 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/YAĞMUR GÜLMEZ 13-19 EKİM 3. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:40:31.221Z",
+      "kayitTarihi": "2025-10-09T08:16:23.278Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ton balığı salatası (80 gram ton balığı +mevsim yeşillikleri +1 yemek kaşığı zeytinyağı ile)",
@@ -616,8 +616,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Yağmur Hanım,\n\nPazartesi gününden itibaren Üçüncü haftaya başlıyoruz. Gönderdiğiniz yemek fotoğraından bu süreci benimsediğiniz ve listelere özenle devam ettiğiniz açıkça görülüyor. Bu istikrar, ilerleyen haftalarda fark edilir değişiklikler getirecektir. Bu süreçte ölçümler mutlaka değişmeye başlayacak; ancak unutmayın, lipödemde asıl hedef hızlı kilo kaybı değil, dokulardaki inflamasyonu azaltarak kalıcı bir yeniden yapılanmadır. Bu nedenle sabırlı olmak ve her adımı istikrarlı sürdürmek çok önemli.\n\nBu hafta artık beslenme düzeninde yeni bir aşamaya geçiyoruz. Süt ürünleri kontrollü şekilde yeniden listeye eklendi. Özellikle tulum ve kaşar gibi olgunlaşmış, laktoz oranı düşük peynir çeşitleriyle başlıyoruz. Bu geçişin amacı, sindirim sisteminizin tolere edebildiği miktarı gözlemlemek ve bağışıklık sistemini destekleyen fermente besinleri kademeli olarak dahil etmek.\n\nAynı zamanda probiyotik ve prebiyotik desteği de bu hafta başlıyor. Probiyotikler bağırsakta yaşayan yararlı bakterileri artırırken, prebiyotikler bu bakterilerin beslenmesini sağlar. Birlikte kullanıldıklarında bağırsak florasının dengesini yeniden kurar ve bu denge vücuttaki inflamasyonun azalmasında kilit rol oynar. Bağırsak florasının güçlenmesi sadece sindirimi değil, ödem kontrolünü, bağışıklık direncini ve hatta ruh hâlini bile etkiler. Lipödemde sık gördüğümüz “karın şişliği”, “gaz”, “tatlı isteği” gibi durumlar da bu mekanizma düzenlendikçe azalır.\n\nYemek listesi bu yapıya uygun şekilde düzenlendi. Badem unlu ekmek ve krep gibi tariflerle sindirim dostu, düşük karbonhidratlı yapıyı korurken; süt ürünleriyle kalsiyum, D vitamini, B12 ve çinko desteği sağlanıyor. Balık, tavuk, kırmızı et gibi protein kaynakları öğünlerde dengeli bir dağılımla yer alıyor. Ton balığı, somon ve levrek gibi yağlı balıklar omega-3 içeriğiyle inflamasyonu baskılamaya yardımcı olurken; semizotu, roka ve marul gibi yeşillikler lif, potasyum ve C vitamini desteğiyle ödemin çözülmesini kolaylaştırıyor. Badem, ceviz ve fındık ise bu dengeyi tamamlayarak hem yağ yakımını destekliyor hem de tokluk süresini uzatıyor.\n\nBu haftanın önemli bir başka özelliği, bağırsak sisteminin artık “yeniden yapılanma” sürecine girmesidir. İlk iki haftalık eliminasyon döneminde flora temizlenmişti; şimdi ise sağlıklı bakterilerin çoğalması için uygun ortam oluşuyor. Bu dönemde dışkı rengi, sıklığı veya kıvamında değişiklikler olabilir; bu, sistemin uyum sürecinin doğal bir parçasıdır. Bol su içmek, maden suyunu düzenli tüketmek ve hareketi aksatmamak bu süreci destekler.\n\nTakıldığınız bir nokta olursa bir mesaj kadar yakınız. ",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -718,6 +718,6 @@
   ],
   "olusturmaTarihi": "2025-09-27T08:55:37.228Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:15:08.677Z",
+  "sonGuncelleme": "2025-10-09T08:16:23.279Z",
   "githubKaydedildi": true
 }
