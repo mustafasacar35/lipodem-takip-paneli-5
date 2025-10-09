@@ -2263,7 +2263,7 @@
       "pdfYolu": "pdfs/FATMA KÖK SARIGÖZ 13-19 EKİM 13. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA KÖK SARIGÖZ 13-19 EKİM 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA KÖK SARIGÖZ 13-19 EKİM 13. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T16:02:52.595Z",
+      "kayitTarihi": "2025-10-09T12:41:56.998Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 2 dilim",
@@ -2407,8 +2407,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Fatma Hanım merhaba,\n\nPazartesi günü itibariyle sürecimizin son haftasına başlıyoruz. Geçtiğimiz haftalarda hayatınızdaki zorluklara rağmen yeniden düzene dönmeye başladığınızı duyduğumuz için gerçekten memnun olduk. Böyle dönemlerde yeniden başlamak ve sürdürebilmek oldukça kıymetli. Programımızın bu aşamasında hem beslenme düzeni hem de ruhsal destek süreci bir arada ilerlemeli. Çünkü lipödem, yalnızca fiziksel değil, aynı zamanda duygusal olarak da yük oluşturabilen bir tablo. Bu nedenle, psikiyatri tedavinizle birlikte beslenme ve masaj uygulamalarına devam etmeniz, iyileşme sürecini çok daha dengeli hâle getirecektir.\n\nBu haftaki yemek listeniz de bu bütünsel iyileşmeyi destekleyecek şekilde planlandı. Öğle öğünlerinde verdiğimiz *fırında kabaklı börek*, *kabaklı peynirli muffin* ve *lor salatası* gibi tarifler, hem yumurta-protein ihtiyacınızı destekliyor hem de karbonhidrat yükünü kontrol altında tutarak kan şekeri dengenize yardımcı oluyor. Kabak, semizotu, biber, roka gibi mevsim sebzelerini içeren öğünler ise bağırsak sağlığına ve ödem atılımına destek sağlar. Salataların yanına eklediğimiz zeytinyağı ve limon/sirke kombinasyonu sindirimi kolaylaştırırken, antioksidan kapasiteyi artırır.\n\nAkşam öğünlerinde sıkça yer verdiğimiz *köfte*, *çıtır tavuk*, *somon* ve *tarhana çorbası* gibi seçeneklerle hem farklı protein kaynaklarını hem de cilt altı dokularınızı destekleyici mikrobesinleri almanızı hedefliyoruz. Özellikle *yoğurtlu köfte çorbası* gibi hem probiyotik hem protein içeriği olan tarifler bağışıklık sisteminizi güçlendirmeye yardımcı olur. Tarhana çorbası gibi geleneksel fermente seçenekler de bağırsak florasına fayda sağlayarak sistemik inflamasyonu düşürmede rol oynar.\n\nTatlı isteğinizi kontrol etmek ve süreci keyifli hâle getirmek için zaman zaman kullandığımız *sakızlı muhallebi*, ölçülü miktarda verilmiş doğal tatlı tercihlerindendir. Akşam öğünlerinden sonra düzenli şekilde kullandığınız toz kollajen takviyesi, cilt altı dokuların desteklenmesinde önemli bir rol oynar; özellikle bu haftalardaki ödem çözülme sürecinde kollajen desteği, doku bütünlüğünü korumaya yardımcı olur.\n\nMasaj konusuna da ayrıca değinmek isterim. Lenf drenaj masajı, özellikle son haftalarda dokularda biriken sıvının uzaklaştırılmasını ve ödemin çözülmesini sağlar. Bu dönemde kilo kaybı çok hızlı olmayabilir, fakat lenf masajına devam edildiğinde kıyafetlerdeki bolluk hissi, bacaklardaki hafiflik ve yorgunluk hissinin azalması gibi etkiler daha çok belirginleşir. Lütfen haftada en az 3–4 gün olacak şekilde zaman ayırmaya çalışın. Her seferinde çok uzun vakit ayırmak zorunda değilsiniz ama düzenli uygulama etkisini belirgin biçimde artıracaktır. Masaj sonrası kısa süreli yürüyüşler de lenf akışını güçlendirir.\n\nBu hafta sizin için yeniden bir toparlanma ve devam etme haftası. Sürecin nasıl ilerlediğini, özellikle de bu yeniden başlama sonrası ruhsal ve fiziksel anlamda nasıl hissettiğinizi öğrenmek isterim. Ayrıca masajı uygulayıp uygulayamadığınızı, egzersizlere yer verip veremediğinizi ve kıyafetlerinizde ya da ölçümlerinizde bir değişiklik hissedip hissetmediğinizi de paylaşırsanız çok sevinirim.\n\nHer zamanki gibi, her konuda bir mesaj kadar yakınız. Desteğimiz hep sizinle.\n\n",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2515,6 +2515,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-03T12:29:05.502Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T12:38:44.651Z",
+  "sonGuncelleme": "2025-10-09T12:41:56.999Z",
   "githubKaydedildi": true
 }
