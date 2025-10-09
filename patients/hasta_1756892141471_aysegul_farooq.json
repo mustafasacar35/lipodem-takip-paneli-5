@@ -1421,7 +1421,7 @@
       "pdfYolu": "pdfs/AYŞEGÜL FAROOQ 13-19 EKİM 7. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞEGÜL FAROOQ 13-19 EKİM 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞEGÜL FAROOQ 13-19 EKİM 7. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T14:49:32.267Z",
+      "kayitTarihi": "2025-10-09T09:23:19.650Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1555,8 +1555,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Ayşegül Hanım,\n\nPazartesi itibarıyla yedinci haftaya başlıyoruz. Bu noktaya kadar düzenli ilerlemeniz, vücudun ritmini ve dengesini bulması açısından çok değerli. Beslenme düzeniniz artık yerleşti, sindirim sistemi ve dolaşım uyum sürecini büyük ölçüde tamamladı. Şimdi, bu sürecin içerden de desteklenmesini sağlayan takviyelerin etkilerini daha yakından hissedeceğiniz bir döneme giriyoruz.\n\nProgramın başında başlanılan takviyelerden bazılarını (boswellia, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kollajen) artık daha net fark etmeye başlayabilirsiniz. Boswellia vücuttaki inflamasyonu baskılayarak sertlik ve ağrı hissini azaltır; Koenzim Q10 enerji üretimini artırır, halsizlik dönemlerini hafifletir; Kurkumin ve Astaksantin antioksidan etkileriyle hücre yenilenmesini destekler; Bromelain ödemin çözülmesine katkı sağlar; Resveratrol damar duvarlarını güçlendirir; Kollajen ise dokularda toparlanma ve sıkılaşmayı destekler. Tüm bu içerikler birlikte çalışarak lipödem dokusunda dolaşımı artırır, hücresel iyileşmeyi hızlandırır.\n\nBu haftaki beslenme listeniz de bu dengeyi destekleyecek şekilde hazırlanmış durumda.\n\nYumurta, tavuk, köfte ve balık: Yüksek biyoyararlanımlı protein kaynakları olarak kas dokusunu korur, tokluk sağlar.\n\nPeynir ve yoğurt: Probiyotik etkileriyle bağırsak florasını destekler, kalsiyum ve protein dengesini sağlar.\n\nKabak, roka, semizotu, ıspanak gibi sebzeler: Magnezyum, potasyum ve lif içerikleriyle ödemin atılmasına yardımcı olur.\n\nKuruyemişler: E vitamini, çinko ve sağlıklı yağ içeriğiyle hormonal dengeyi destekler.\n\nZeytinyağı, avokado, tahin: Anti-inflamatuar etkileriyle hücre zarını korur, ciltte parlaklık ve esneklik sağlar.\n\nBitter çikolata ve çilek: Antioksidan etkileriyle dolaşımı destekler, tatlı isteğini dengelemeye yardımcı olur.\n\nBeşinci haftada başladığımız manuel lenf drenaj masajını bu dönemde aksatmadan sürdürmeniz çok önemli. Masaja yeterli zaman ayırabildiniz mi? Düzenli yapıldığında lenf dolaşımını hızlandırır, toksinlerin atılımını kolaylaştırır ve dokularda biriken ödemin çözülmesini sağlar. Masajı eğitim videolarından öğrendiğiniz şekilde yapmanız, etkiyi artıracaktır. Bu uygulama, beslenmeyle elde ettiğimiz sonuçların kalıcılığını da güçlendirir.\n\nÖnümüzdeki haftalarda bu sistemin üçüncü ayağı olan egzersizleri de ekleyeceğiz. Dokuzuncu haftadan itibaren başlayacağımız lipödem egzersizleriyle masajın sıklığı azalacak ama dolaşımın derin katmanlarını uyararak ödemin çözülmesini sürdüreceğiz.\n\nPazar günü ölçüm almayı unutmayın; kıyafetlerdeki değişiklikleri ve vücuttaki hafifleme hissini bu şekilde takip edebiliriz. Sürecin sizde nasıl ilerlediğini, masaja düzenli vakit ayırıp ayıramadığınızı merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1658,6 +1658,6 @@
   ],
   "olusturmaTarihi": "2025-09-03T09:35:41.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T09:19:31.721Z",
+  "sonGuncelleme": "2025-10-09T09:23:19.651Z",
   "githubKaydedildi": true
 }
