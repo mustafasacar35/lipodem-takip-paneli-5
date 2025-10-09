@@ -2226,7 +2226,7 @@
       "pdfYolu": "pdfs/MERYEM KARADAĞ ÜNNÜ 13-19 EKİM 13. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/MERYEM KARADAĞ ÜNNÜ 13-19 EKİM 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/MERYEM KARADAĞ ÜNNÜ 13-19 EKİM 13. HAFTA.pdf",
-      "kayitTarihi": "2025-10-03T16:04:26.395Z",
+      "kayitTarihi": "2025-10-09T12:55:21.490Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -2415,8 +2415,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Pazartesi günü itibariyle on üçüncü haftaya başlıyoruz.\n\nBu hafta programın son haftası gibi görünse de, aslında kalıcı yaşam tarzı değişikliklerinin yerleşmesi açısından kritik bir döneme giriyoruz. Başlangıçtan bugüne kadar gösterdiğiniz çabanın, artık alışkanlığa dönüşmeye başlamasını hedefliyoruz. Her zaman olduğu gibi bu hafta da sizin için dengeli bir liste planlandı. İçeriğinde hem antiinflamatuar etkisi güçlü sebzeler hem de bağışıklığı destekleyen protein kaynakları yer alıyor.\n\nÖrneğin akşam öğünlerindeki yoğurtlu köfte çorbası, tavuklu bamya yemeği ya da kıymalı mantar dolması, hem protein ihtiyacını karşılarken hem de C vitamini yönünden zengin içeriklerle desteklenmiş durumda. Buna ek olarak, lahana, kabak, semizotu, roka gibi sebzeler bağ dokusu sağlığını ve lenfatik dolaşımı destekleyici özellikleriyle lipödem tedavisinde tercih ettiğimiz gıdalar arasında. Ara ara listede yer alan çorba ve yoğurtlu mezeler gibi öğeler de sindirimi rahatlatıcı ve mide boşalma süresini dengeleyici etkileriyle fayda sağlıyor.\n\nBu hafta da karabuğday ekmeği, lupin unlu poğaça, mercimekli tuzlu kek gibi liften zengin, glisemik yükü düşük tahıl alternatifleriyle karbonhidrat dengesini sürdürmeye devam ediyoruz. Bu seçenekler, uzun süreli tokluk sağlarken tatlı isteğini de doğal şekilde bastırabiliyor.\n\nToz kollajen takviyesi ise haftanın farklı günlerinde, akşam öğünlerine yerleştirilmiş durumda. Hem cilt altı dokunun sıkılaşmasına destek olması hem de bağ dokusunun yeniden yapılanmasını desteklemesi açısından özellikle lipödemde hedefli bir kullanımı var.\n\nBu hafta itibariyle sürecin sizin açınızdan nasıl ilerlediğini merak ediyoruz. Kıyafetlerde bir rahatlama ya da görünümde bir değişiklik fark ediyor musunuz? Bunlar, lipödemde kilo değişiminden çok daha önce fark edilen olumlu gelişmeler olabilir. Eğer bu hafta ölçümlerinizi paylaşabilirseniz, biz de bu veriler üzerinden süreci birlikte değerlendirebiliriz. Çünkü ölçümler, görsel değişimle beraber ilerleyip ilerlemediğimizi somut olarak anlamamıza yardımcı oluyor.\n\nSınav dönemi boyunca oldukça yoğun olduğunuzu biliyoruz ve sizi rahatsız etmemek adına sadece bilgilendirme içerikli mesajlarla ilerlemeye çalıştık. Ancak takıldığınız herhangi bir noktada ya da danışmak istediğiniz bir konuda her zaman bizimle iletişime geçebileceğinizi tekrar hatırlatmak isterim.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Ölçümlerinizi, gözlemlerinizi ve varsa sorularınızı bekliyoruz.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2516,6 +2516,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2025-08-03T12:26:51.956Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T12:52:59.807Z",
+  "sonGuncelleme": "2025-10-09T12:55:21.492Z",
   "githubKaydedildi": true
 }
