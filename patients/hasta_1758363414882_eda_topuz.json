@@ -915,7 +915,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Eda Hanım,\n\nPazartesi günü itibariyle dördüncü haftaya başlıyoruz. Bu haftadan itibaren artık beslenme düzeninizin temelleri oturmaya başladı. Artık vücudunuz düşük karbonhidratlı, sağlıklı yağ ve protein temelli beslenmeye adapte oldu. Bu dönemde metabolizmanın hızını korumak, enerjiyi dengelemek ve yeme davranışını kalıcı bir düzene oturtmak en önemli hedefimiz olacak.\n\nBu hafta öğünlerde protein kaynakları yine güçlü şekilde devam ediyor: köfte, tavuk, balık, yumurta ve peynir gibi besinler günlük enerji ihtiyacını karşılarken kas dokusunun korunmasını da sağlıyor. Listede yer alan semizotu, kabak, roka, yeşil salata gibi sebzeler lif ve magnezyum içeriğiyle hem sindirimi destekliyor hem de inflamasyonu azaltıyor. Ayrıca yemeklerde kullanılan zeytinyağı, avokado ve badem gibi yağ kaynakları hormon dengesini koruyarak lipödemde ödemin hafiflemesine katkı sağlıyor.\n\nSüt ürünleri artık düzenin bir parçası haline geldiği için peynir çeşitleriyle birlikte yumurta miktarı biraz azaldı. Bu sayede hem çeşitlilik sağlanıyor hem de sindirim sistemi daha dengeli çalışıyor. Kollajen takviyesine ise akşam öğünlerinde devam ediyoruz; bu, cilt altı bağ dokusunun toparlanması açısından hâlâ önemli.\n\nTatlı ve hamur işi isteğiniz olduğunu belirtmiştiniz. Geçtiğimiz hafta bu nedenle bazı atıştırmalık tarifleri paylaşmıştık. Bu hafta bu tariflerden bir kısmını deneme fırsatınız oldu mu? Özellikle bitter çikolata, ceviz ve badem içeren sağlıklı alternatifler hem kan şekeri dengesini bozmaz hem de tatlı isteğini doğal yollarla kontrol altına alır. Bunların düzenli ve ölçülü şekilde kullanılması, hem psikolojik hem fizyolojik açıdan süreci daha sürdürülebilir hale getirir.\n\nBu dönemde kilo kaybı bazen daha yavaşlayabilir, bu oldukça doğal bir durumdur. Çünkü vücut bir denge kurmaya çalışır. Yağ hücrelerinden toksinlerin kana karışması karaciğer ve böbrek tarafından temizlenirken, bu süreçte metabolizma kısa süreli bir “koruma fazına” geçebilir. Bu bir duraksama değil, yeniden yapılanmanın bir göstergesidir. Ölçümlerdeki farkı daha çok bel, kalça ve bacak çevresinde gözlemlemek mümkündür.\n\nHer öğünün yanında yer alan yeşillikler, sirke ve limonla birlikte insülin dengesine katkı sağlar. Bu da yağ yakımını kolaylaştırır. Özellikle akşam öğünlerinden sonra 15–20 dakikalık kısa bir yürüyüş yapmak, kan şekeri düzeni açısından oldukça faydalı olur.\n\nBu hafta da aynı şekilde günlük su tüketiminizi 2 litrenin üzerinde tutmanızı ve 5000 adım hedefini sürdürmenizi öneriyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1011,6 +1011,6 @@
   ],
   "olusturmaTarihi": "2025-09-20T10:16:54.882Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T08:32:32.181Z",
+  "sonGuncelleme": "2025-10-09T08:35:44.477Z",
   "githubKaydedildi": true
 }
