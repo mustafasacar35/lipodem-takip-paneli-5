@@ -287,13 +287,6 @@
     "sonGuncelleme": "2025-10-09T09:09:29.076Z"
   },
   {
-    "id": 20,
-    "isim": "ŞENAY UZAKGİDER",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2025-10-02T07:34:17.121Z"
-  },
-  {
     "id": "tuba_gul",
     "isim": "TÜBA GÜL",
     "not": "",
@@ -453,6 +446,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-09-24T07:55:54.234Z"
+  },
+  {
+    "id": 20,
+    "isim": "ŞENAY UZAKGİDER",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-10-10T05:59:26.227Z"
   },
   {
     "id": "tuba_atas",
