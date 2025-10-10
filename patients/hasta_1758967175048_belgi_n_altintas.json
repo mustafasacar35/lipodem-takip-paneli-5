@@ -765,10 +765,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "tahi̇n ekmeği̇ yeri̇ne(bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin ya da 20 adet"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2025-10-19",
+      "bitis": "2025-10-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2025-09-27T09:59:35.048Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-10T16:12:54.045Z",
+  "sonGuncelleme": "2025-10-10T16:13:08.875Z",
   "githubKaydedildi": true
 }
