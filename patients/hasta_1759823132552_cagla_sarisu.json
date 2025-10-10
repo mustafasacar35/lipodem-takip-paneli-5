@@ -21,7 +21,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "köfte",
@@ -34,6 +34,12 @@
           "kartResmi": "patlican_musakka.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -120,6 +126,7 @@
         "patlıcan musakka",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuk güveç",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "köfte",
@@ -161,7 +168,6 @@
         "cherry domates (2 adet)",
         "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke,limon ile)",
         "akşam (tercihen hava kararınca)",
-        "tavuk güveç",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "ceviz (3 adet)",
@@ -244,6 +250,12 @@
           "kartResmi": "mantarli_tavuk_sote.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/mantarli_tavuk_sote.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "urfa / adana kebap 200 gram ( 1 porsiyon)",
+          "kartResmi": "adana_urfa_kebap.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/adana_urfa_kebap.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "tavuklu bamya yemeği",
@@ -347,7 +359,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Çağla Hanım,\n\nPazartesi günü itibariyle ikinci haftaya başlıyoruz. İlk haftayı oldukça güzel bir şekilde sürdürüyorsunuz; şimdi bu düzeni bir adım ileri taşıyacağız. Daha önce de bu süreci başarıyla tamamlamıştınız, bu kez aynı disiplini koruyarak çok daha kalıcı değişiklikler elde edeceğinize eminim. Programın her aşamasında size gönderdiğimiz bilgilendirme mesajlarını dikkatle okumanız, hem öğünlerin neden bu şekilde planlandığını anlamanızı hem de uygulamada daha bilinçli ilerlemenizi sağlayacaktır.\n\nZaman zaman yediğiniz yemeklerin görsellerini paylaşmanız da sürecin bir parçası. Bu sadece bizim için değerlendirme açısından değil, sizin için de motivasyonu artıran bir unsur oluyor. Görsel takibi, farkındalığı güçlendirir ve süreci somutlaştırır.\n\n2. Hafta Planının Genel Yapısı\n\nBu hafta hâlâ eliminasyon sürecindeyiz; süt ve süt ürünleri tamamen çıkarılmış durumda. Böylece bağırsak florasının yenilenmesi için gerekli ortam korunuyor. Listenin temelini yumurta, zeytinyağı, zeytin, avokado, kabak, yeşil sebzeler, tahin, badem ve ceviz gibi sağlıklı yağ ve lif kaynakları oluşturuyor.\n\nSabah rutinimiz değişmiyor: ılık su, zeytinyağı, limon ve elma sirkesi karışımıyla güne başlanıyor, ardından kurşun geçirmez kahveyle uzun süreli tokluk sağlanıyor.\n\nÖğünlerdeki Yapı ve Etkileri\n\nYumurta + yeşillik + zeytin + tahin ekmeği: Yumurta hâlâ temel protein kaynağımız. Tokluk süresini uzatırken kolin ve selenyumla karaciğer detoksifikasyonuna destek olur. Zeytin ve tahin ekmeği, tekli doymamış yağlarla birlikte enerji dengesini sağlar. Bu kombinasyon lipödemli dokularda inflamasyonu azaltmaya yardımcı olur.\n\nEt, tavuk, köfte ve kebap: Akşam öğünlerinde farklı protein kaynaklarıyla çeşitlilik sağlandı. Bu çeşitlilik hem metabolizmayı aktif tutar hem de kas kaybını önler. Izgara tavuk, köfte, adana kebap gibi seçeneklerde baharatlar, dolaşım sistemini destekleyici doğal antioksidan etki yaratır.\n\nSebze tabanlı yemekler: Kabak çorbası, bamya ve ıspanak–semizotu gibi sebze yemekleri su ve lif içeriğiyle ödem atımını kolaylaştırır. Aynı zamanda bağırsak geçişini düzenleyerek sindirim konforu sağlar.\n\nSağlıklı atıştırmalıklar: Çiğ badem, ceviz ve bitter çikolata bu hafta ölçülü biçimde eklendi. Badem magnezyum, ceviz omega-3, bitter çikolata ise fenolik bileşenlerle damar elastikiyetine katkı sağlar.\n\nZeytinyağlı deniz börülcesi: Bu öğün, iyot ve mineraller açısından zengindir. Dolaşım sistemi ve lenf akışı üzerinde destekleyici etki oluşturur.\n\nGünlük Destekler ve Uygulama\n\nHer gün 2 litrenin üzerinde su tüketimi ve ortalama 5000 adım hedefimiz devam ediyor.\nYemeklerden 15–20 dakika sonra kısa yürüyüşler yapmak, kan şekeri kontrolüne ve sindirime katkı sağlar.\nÖğleden sonra sade maden suyuna birkaç damla limon ekleyebilirsiniz; elektrolit dengesine yardımcı olur.\n\nSüreçle İlgili Küçük Hatırlatmalar\n\nZaman zaman tartıda değişiklik olmaması normaldir. Bu, vücudun adaptasyon sürecinin bir parçasıdır. İstikrarlı şekilde ilerlediğiniz sürece hem incelme hem de doku kalitesinde belirgin iyileşmeler görürüz.\n\nDaha önce bu programı başarıyla tamamlamıştınız; aynı kararlılıkla ilerlediğinizde bu kez elde edeceğimiz sonuçlar çok daha kalıcı olacak. Her zamanki gibi bize ulaşabilirsiniz. Gözlemlerinizi, ölçümlerinizi ve yemek fotoğraflarınızı paylaşmanızı bekliyorum.\n\nDr. Mustafa",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -360,6 +372,7 @@
         "köfte",
         "kabak çorbası",
         "mantarlı tavuk sote",
+        "urfa / adana kebap 200 gram ( 1 porsiyon)",
         "tavuklu bamya yemeği",
         "tahin ekmeği (1 dilim)",
         "kıymalı - yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. ispanak, 1 yk zeytinyağı, soğan"
@@ -414,7 +427,6 @@
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
         "zeytin (5 adet)",
         "akşam (tercihen hava kararınca)",
-        "urfa / adana kebap 200 gram ( 1 porsiyon)",
         "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + 1 tatlı kaşığı zeytinyağı)",
         "kabak çekirdeği (1 avuç)",
         "bitter çikolata (2 kare)",
@@ -448,6 +460,6 @@
   ],
   "olusturmaTarihi": "2025-10-07T07:45:32.552Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T15:00:59.194Z",
+  "sonGuncelleme": "2025-10-10T17:50:22.010Z",
   "githubKaydedildi": true
 }
