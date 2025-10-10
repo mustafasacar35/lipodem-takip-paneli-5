@@ -262,6 +262,30 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+          "kartResmi": "kiymali_taze_fasulye.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_taze_fasulye.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+          "kartResmi": "patlican_musakka.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "avokado ve rokalı salata",
+          "kartResmi": "avokado_ve_rokali_salata.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/avokado_ve_rokali_salata.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
           "tarifAdi": "yumurtalı ıspanak /pazı /semizotu",
           "kartResmi": "yumurtali_ispanak.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yumurtali_ispanak.jpg",
@@ -376,6 +400,8 @@
         "tavuklu mantar sote (150 gr tavuk ile)",
         "tereyağlı kabak",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
+        "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+        "avokado ve rokalı salata",
         "yumurtalı ıspanak /pazı /semizotu",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
         "közlenmiş patlıcan salatası",
@@ -416,8 +442,6 @@
         "zeytin (5 adet)",
         "ceviz (5 adet)",
         "akşam (tercihen hava kararınca)",
-        "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
-        "avokado ve rokalı salata",
         "kabak çekirdeği (1 avuç)",
         "kollajen (1 ölçek 10 gram)",
         "perşembe",
@@ -498,6 +522,12 @@
           "kartResmi": "tahin_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tahin_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
@@ -633,7 +663,7 @@
         "tahi̇n ekmeği̇ yeri̇ne(bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin ya da 20 adet"
       ],
       "gptMesaj": "Belgin Hanım,\n\nÜçüncü haftaya başlıyoruz. Bu haftadan itibaren programda süt ürünleri kontrollü şekilde yeniden yer alıyor. Özellikle yoğurt ve peynir gibi fermente ürünlerle başlıyoruz; çünkü bu besinler sindirimi kolaylaştırır, bağırsak florasını destekler ve inflamasyonu azaltmaya yardımcı olur. Aynı zamanda bu haftayla birlikte probiyotik ve prebiyotik takviyelere de başlanıyor.\n\nİlk iki haftalık eliminasyon süreci, bağırsak sistemini rahatlatmak ve inflamatuar yükü azaltmak için çok önemliydi. Artık o temelin üzerine sağlıklı bakterilerin çoğalmasını destekleyecek bir yapı kuruyoruz. Listede yoğurtlu kabak mezesi ve yoğurtlu semizotu salatası gibi öğünler bu amaçla eklendi. Bu kombinasyonlar hem probiyotik etki sağlar hem de lif içeriğiyle sindirim sistemini düzenler.\n\nMenüdeki sebze çeşitliliği —kabak, patlıcan, semizotu, roka, kırmızı lahana gibi— vücudun lif, magnezyum, potasyum ve C vitamini ihtiyacını karşılar. Bu mikrobesinler hem ödemin çözülmesine hem de dokuların yenilenmesine destek olur. Balık, hindi, köfte ve yumurta gibi yüksek kaliteli protein kaynakları ise bağ dokusunun onarımı için gereklidir. Kollajen desteği de bu dönemde cilt altı dokunun toparlanmasına katkı sağlar.\n\nKilo verme süreciyle ilgili olarak, tartıdaki değişimin henüz başlamamış olmasını endişe verici bir durum olarak değerlendirmemek gerekir. Lipödemde vücudun öncelikli tepkisi, ödemli ve inflamasyonla dolu yağ dokusunu çözmek olur. Bu süreçte yağ hücreleri toksinleri ve fazla sıvıyı dışarı bırakırken, kısa süreli duraksamalar yaşanabilir. Bu aslında sürecin çalıştığının göstergesidir.\n\nLipödemli dokuda önemli olan yalnızca kilo kaybı değil, hacim azalmasıdır. Yağ dokusunun yoğunluğu düşük olduğu için vücuttaki form değişimi tartıya göre çok daha anlamlıdır. Bu nedenle bu haftalarda bel, kalça, uyluk ve diz çevresi ölçümlerini düzenli olarak almanız, değişimi daha doğru değerlendirmemizi sağlayacaktır. Kıyafetlerdeki gevşeme, ciltte yumuşama veya dokuda rahatlama gözlemliyorsanız, bu tablo metabolik olarak ilerlemenin başladığını gösterir.\n\nProgramda yer alan “ketojenik tost” ve “lupin unlu poğaça” gibi alternatifler, süt ürünlerinin dönüşünü daha dengeli hale getirmek için planlandı. Keten veya haşhaş ekmeğinden yapılan tostların içine ince dilim domates ve peynir eklenmesi hem lezzeti artırır hem de tok kalma süresini uzatır.\n\nBu hafta, bedenin yeniden denge kurduğu bir geçiş evresidir. Kilo kaybı zamana yayılan bir süreçtir; ancak istikrarlı devam edildiğinde ödemin çözülmesi, doku kalitesinin artması ve vücut formunun belirginleşmesi kaçınılmazdır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -642,6 +672,7 @@
         "yoğurtlu kabak mezesi",
         "tahin ekmeği (1 dilim)",
         "tahin ekmeği (1 dilim)",
+        "tavuk güveç",
         "tahin ekmeği (1 dilim)",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "tavuklu domates çorbası",
@@ -687,7 +718,6 @@
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
         "fındık (10 adet)",
         "akşam (tercihen hava kararınca)",
-        "tavuk güveç",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
         "tahin ekmeği (1 dilim)",
         "kollajen (1 ölçek 10 gram)",
@@ -739,6 +769,6 @@
   ],
   "olusturmaTarihi": "2025-09-27T09:59:35.048Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-09T07:48:17.698Z",
+  "sonGuncelleme": "2025-10-10T16:12:54.045Z",
   "githubKaydedildi": true
 }
