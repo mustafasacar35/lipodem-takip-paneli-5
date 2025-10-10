@@ -1,12 +1,5 @@
 [
   {
-    "id": 14,
-    "isim": "ALEV KAYA",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2025-10-02T07:53:33.127Z"
-  },
-  {
     "id": "aslihan_ozgur",
     "isim": "ASLIHAN ÖZGÜR",
     "not": "",
@@ -327,6 +320,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-08-09T15:02:05.166Z"
+  },
+  {
+    "id": 14,
+    "isim": "ALEV KAYA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2025-10-10T07:00:04.836Z"
   },
   {
     "id": 27,
