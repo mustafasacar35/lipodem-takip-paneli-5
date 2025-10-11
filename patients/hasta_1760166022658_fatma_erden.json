@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
-      "kayitTarihi": "2025-10-11T07:01:00.235Z",
+      "kayitTarihi": "2025-10-11T07:01:09.820Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -150,7 +150,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -263,6 +263,6 @@
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T07:01:07.341Z",
+  "sonGuncelleme": "2025-10-11T07:01:09.820Z",
   "githubKaydedildi": true
 }
