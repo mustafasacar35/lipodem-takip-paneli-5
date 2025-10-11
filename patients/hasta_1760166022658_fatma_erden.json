@@ -149,7 +149,7 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "gptMesaj": "Fatma Hanım merhaba, nasılsınız?\n\nPazartesi günü itibarıyla programımıza başlıyoruz. Bundan sonraki süreçte her adımı birlikte ilerleyeceğiz, o yüzden size kısaca sistemin nasıl işleyeceğini anlatmak istedim.\n\nGünde üç öğün olacak şekilde ilerleyeceğiz:\nSabahları kahvaltı yerine kurşun geçirmez kahve içiyoruz. Kahve tercih etmeyenler için ½ avokado, 10 zeytin veya 1 yemek kaşığı tahin de aynı görevi görür. Bu uygulama, sabah insülin seviyesini düşük tutarak gün boyu yağ yakımını destekler.\nÖğle ve akşam öğünleri listedeki saatlere yakın olursa vücut ritmi daha düzenli çalışır. Akşam yemeğini hava kararmadan önce tamamlamaya özen gösterelim; böylece gece sindirim sistemi dinlenmeye geçer.\n\nListede sıkça yumurta, hindi, balık, yeşil sebzeler ve tahin ekmeği göreceksiniz.\nYumurta burada temel protein kaynağı; hem kas dokusunu korur hem de tokluk sağlar.\nYeşil sebzeler —roka, dereotu, maydanoz, marul gibi— bağırsakları çalıştırır, dolaşımı destekler.\nZeytinyağı ve tahin gibi sağlıklı yağlar da lipödemde inflamasyonu azaltmak için listede yer alıyor.\nBalık ve hindi ise dokulardaki onarımı destekleyen, sindirimi kolay protein kaynaklarıdır.\nKollajen tozu da bu dönemde cilt altı bağ dokusunu güçlendirmek ve toparlanmayı desteklemek için eklendi.\n\nBazı malzemeleri bulamazsanız veya alternatif ararsanız mutlaka bize yazın. Gerekirse hemen değişiklik yaparız; listeler esnek şekilde düzenlenebilir.\nAyrıca bizden gelen mesajları düzenli okuyun, çünkü her hafta yeni bilgiler ve küçük düzeltmeler paylaşacağız.\n\nÖlçümlerinizi iki haftada bir, pazar günleri alıp göndermeniz çok önemli. Tartıdan çok bel, kalça ve bacak çevresi ölçümlerine odaklanacağız. Bu hastalıkta “incelme” asıl göstergemizdir, tartıdaki sayı bazen yanıltıcı olabilir.\nDisiplinli ve düzenli ilerlerseniz hem lipödemde gerileme hem de gözle görülür incelme elde ederiz.\n\nBu programda yalnız değilsiniz; her adımda size destek olacağız.\nTakıldığınız her konuda, özellikle listede anlamadığınız bir kısım olursa ya da öğünleri uygularken zorlanırsanız bize yazmanız yeterli.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -259,11 +259,11 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "ekNotlar": ""
+      "ekNotlar": "EK BİLGİLER BURADA\n\n=== AÇIKLAMA ===\nAÇIKLAMA METNİ BURADA"
     }
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T15:34:20.477Z",
+  "sonGuncelleme": "2025-10-11T15:35:41.124Z",
   "githubKaydedildi": true
 }
