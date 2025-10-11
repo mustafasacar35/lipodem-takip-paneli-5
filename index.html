@@ -5991,31 +5991,40 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         
         if (yeniFormatKullan) {
           // Yeni format: obje array
-          yeniListe = mevcutListe.filter(item => item.file !== dosyaAdi);
+          yeniListe = mevcutListe.filter(item => item && item.file && item.file !== dosyaAdi);
           yeniListe.push({
             file: dosyaAdi,
             tags: tags
           });
-          yeniListe.sort((a, b) => a.file.localeCompare(b.file, 'tr-TR'));
+          // Güvenli sort - file property'si olan elemanları kontrol et
+          yeniListe.sort((a, b) => {
+            if (!a.file || !b.file) return 0;
+            return a.file.localeCompare(b.file, 'tr-TR');
+          });
         } else {
           // Eski format: string array - yeni formata dönüştür
           yeniListe = mevcutListe
             .filter(item => {
-              const fileName = typeof item === 'string' ? item : item.file;
-              return fileName !== dosyaAdi;
+              const fileName = typeof item === 'string' ? item : (item && item.file);
+              return fileName && fileName !== dosyaAdi;
             })
             .map(item => {
               if (typeof item === 'string') {
                 return { file: item, tags: [] };
               }
-              return item;
-            });
+              return item && item.file ? item : null;
+            })
+            .filter(item => item !== null); // null elemanları temizle
           
           yeniListe.push({
             file: dosyaAdi,
             tags: tags
           });
-          yeniListe.sort((a, b) => a.file.localeCompare(b.file, 'tr-TR'));
+          // Güvenli sort - file property'si olan elemanları kontrol et
+          yeniListe.sort((a, b) => {
+            if (!a.file || !b.file) return 0;
+            return a.file.localeCompare(b.file, 'tr-TR');
+          });
         }
 
         // Güncellenmiş listeyi yükle
@@ -15914,6 +15923,24 @@ ${mesajlar.join('\n')}
       <div id="resimPopupBaslik" style="margin-top: 15px; color: white; font-size: 18px; font-weight: bold; text-align: center; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);"></div>
     </div>
   </div>
+
+  <script>
+    // Global error handler - extension hatalarını suppress et
+    window.addEventListener('error', function(e) {
+      if (e.filename && e.filename.includes('content-all.js')) {
+        e.preventDefault();
+        return true;
+      }
+    });
+    
+    // Promise rejection handler
+    window.addEventListener('unhandledrejection', function(e) {
+      if (e.reason && e.reason.message && e.reason.message.includes('Could not establish connection')) {
+        e.preventDefault();
+        return true;
+      }
+    });
+  </script>
 
 </body>
 </html>
