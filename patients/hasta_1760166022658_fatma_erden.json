@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2025-10-05",
-      "bitis": "2025-10-11",
+      "baslangic": "2025-10-13",
+      "bitis": "2025-10-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
+      "pdfOrijinalIsim": "FATMA ERDEN  13-19 EKİM 1.HAFTA.pdf",
+      "pdfYolu": "pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA ERDEN 13-19 EKİM 1.HAFTA.pdf",
+      "kayitTarihi": "2025-10-11T07:01:00.235Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T07:00:33.437Z",
+  "sonGuncelleme": "2025-10-11T07:01:00.237Z",
   "githubKaydedildi": true
 }
