@@ -149,7 +149,7 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "\n• Patlıcan musakka yerine, sebzeli fırın yemeği (patlıcan, kabak, biber, domates, soğan ve sarımsak ile) tercih edilebilir.\n• Kahvaltıda sahanda yumurta yerine, omlet veya menemen de tercih edilebilir.\n• Tavuk ızgara tava yerine, hindi ya da tavuk füme de tercih edilebilir.\n• Kıymalı taze fasulye yerine, mercimek çorbası veya sebzeli bulgur pilavı da tercih edilebilir.\n• İçerisinde toz kollajen bulunan besin takviyeleri kullanılabilir.\n• Badem unlu krep yerine, yulaf ezmesi veya chia tohumu ile yapılmış bir smoothie tercih edilebilir.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -263,8 +263,8 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2025-10-19",
-      "bitis": "2025-10-25",
+      "baslangic": "2025-10-20",
+      "bitis": "2025-10-26",
       "aciklama": "",
       "pdf": null,
       "pdfName": null,
@@ -281,6 +281,6 @@
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T11:01:07.363Z",
+  "sonGuncelleme": "2025-10-11T11:02:10.751Z",
   "githubKaydedildi": true
 }
