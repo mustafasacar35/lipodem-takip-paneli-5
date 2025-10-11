@@ -260,27 +260,10 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "ekNotlar": ""
-    },
-    {
-      "haftaNo": 2,
-      "baslangic": "2025-10-20",
-      "bitis": "2025-10-26",
-      "aciklama": "",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "",
-      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T11:02:10.751Z",
+  "sonGuncelleme": "2025-10-11T11:04:04.480Z",
   "githubKaydedildi": true
 }
