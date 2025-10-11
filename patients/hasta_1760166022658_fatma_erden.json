@@ -144,7 +144,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -257,6 +257,6 @@
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T10:27:41.713Z",
+  "sonGuncelleme": "2025-10-11T10:27:46.041Z",
   "githubKaydedildi": true
 }
