@@ -5984,18 +5984,32 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         const listData = await listRes.json();
         const mevcutListe = JSON.parse(decodeBase64UTF8(listData.content));
         
+        // Debug: Mevcut liste içeriğini kontrol et
+        console.log('📋 Mevcut liste:', mevcutListe);
+        console.log('📋 Liste uzunluğu:', mevcutListe.length);
+        
         // Liste format kontrolü - hem eski hem yeni formatı destekle
         let yeniListe;
         const ilkEleman = mevcutListe.length > 0 ? mevcutListe[0] : null;
         const yeniFormatKullan = ilkEleman && typeof ilkEleman === 'object' && ilkEleman.file;
         
+        console.log('📋 İlk eleman:', ilkEleman);
+        console.log('📋 Yeni format kullanılacak mı?', yeniFormatKullan);
+        
         if (yeniFormatKullan) {
           // Yeni format: obje array
+          console.log('📋 Yeni format kullanılıyor...');
           yeniListe = mevcutListe.filter(item => item && item.file && item.file !== dosyaAdi);
+          console.log('📋 Filtrelenmiş liste (eklenmeden önce):', yeniListe);
+          
           yeniListe.push({
             file: dosyaAdi,
             tags: tags
           });
+          
+          console.log('📋 Yeni eklenen dosya:', dosyaAdi);
+          console.log('📋 Final liste (sort öncesi):', yeniListe);
+          
           // Güvenli sort - file property'si olan elemanları kontrol et
           yeniListe.sort((a, b) => {
             if (!a.file || !b.file) return 0;
@@ -6003,6 +6017,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
           });
         } else {
           // Eski format: string array - yeni formata dönüştür
+          console.log('📋 Eski format dönüştürülüyor...');
           yeniListe = mevcutListe
             .filter(item => {
               const fileName = typeof item === 'string' ? item : (item && item.file);
@@ -6016,16 +6031,24 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
             })
             .filter(item => item !== null); // null elemanları temizle
           
+          console.log('📋 Dönüştürülmüş liste (eklenmeden önce):', yeniListe);
+          
           yeniListe.push({
             file: dosyaAdi,
             tags: tags
           });
+          
+          console.log('📋 Yeni eklenen dosya:', dosyaAdi);
+          console.log('📋 Final liste (sort öncesi):', yeniListe);
+          
           // Güvenli sort - file property'si olan elemanları kontrol et
           yeniListe.sort((a, b) => {
             if (!a.file || !b.file) return 0;
             return a.file.localeCompare(b.file, 'tr-TR');
           });
         }
+        
+        console.log('📋 FINAL LİSTE (GitHub\'a gönderilecek):', yeniListe);
 
         // Güncellenmiş listeyi yükle
         const yeniListeContent = encodeUTF8ToBase64(yeniListe);
