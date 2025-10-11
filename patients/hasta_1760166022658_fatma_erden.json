@@ -263,24 +263,26 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2025-10-19",
-      "bitis": "2025-10-25",
+      "baslangic": "2025-10-20",
+      "bitis": "2025-10-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA ERDEN_2_hafta.pdf",
+      "pdfOrijinalIsim": "FATMA ERDEN_2_hafta.pdf",
+      "pdfYolu": "pdfs/FATMA ERDEN_2_hafta.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA ERDEN_2_hafta.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA ERDEN_2_hafta.pdf",
+      "kayitTarihi": "2025-10-11T18:50:21.201Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T18:41:06.473Z",
+  "sonGuncelleme": "2025-10-11T18:50:21.203Z",
   "githubKaydedildi": true
 }
