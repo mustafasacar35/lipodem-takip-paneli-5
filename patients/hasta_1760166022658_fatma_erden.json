@@ -24,12 +24,6 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "köfte",
-          "kartResmi": "keto_kofte.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/keto_kofte.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
-        },
-        {
           "tarifAdi": "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
           "kartResmi": "kabak_sote.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kabak_sote.jpg",
@@ -149,14 +143,13 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "gptMesaj": "\n• Patlıcan musakka yerine, sebzeli fırın yemeği (patlıcan, kabak, biber, domates, soğan ve sarımsak ile) tercih edilebilir.\n• Kahvaltıda sahanda yumurta yerine, omlet veya menemen de tercih edilebilir.\n• Tavuk ızgara tava yerine, hindi ya da tavuk füme de tercih edilebilir.\n• Kıymalı taze fasulye yerine, mercimek çorbası veya sebzeli bulgur pilavı da tercih edilebilir.\n• İçerisinde toz kollajen bulunan besin takviyeleri kullanılabilir.\n• Badem unlu krep yerine, yulaf ezmesi veya chia tohumu ile yapılmış bir smoothie tercih edilebilir.",
+      "gptMesaj": "\n\n• ızgara tavuk (marine edilmiş)\n• 1 tatlı kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin\n• badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın, istediğiniz baharatları ekleyin, kısık ateşte arkalı önlü pişirin)\n• çiğ badem (20 adet)\n• kabak çekirdeği (1 avuç)\n• yemeklerinize ve salatalara sarımsak ekleyebilirsiniz\n• tahin ekmeği yerine 20 çiğ badem ya da yarım avokado ya da 1 yemek kaşığı tahin içerisine ceviz içi ekleyerek tüketebilirsiniz. \n\nBu beslenme listesi FATMA ERDEN için önerilmiştir. Uygulamadan önce doktorunuza danışmanız önemlidir. Beslenme listesi kişisel tercihler ve ihtiyaçlar doğrultusunda değişiklik gösterebilir.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
         "tahin ekmeği (1 dilim)",
-        "köfte",
         "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
         "tahin ekmeği (1 dilim)",
         "tahin ekmeği (1 dilim)",
@@ -183,6 +176,7 @@
         "zeytin (5 adet)",
         "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )",
         "akşam (tercihen hava kararınca)",
+        "köfte",
         "tahin ekmeği (1 dilim)",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1tatlı kaşığı zeytinyağı)",
         "toz kollajen 1 ölçek",
@@ -264,6 +258,6 @@
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T11:04:04.480Z",
+  "sonGuncelleme": "2025-10-11T11:13:18.126Z",
   "githubKaydedildi": true
 }
