@@ -24,6 +24,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
           "tarifAdi": "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
           "kartResmi": "kabak_sote.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kabak_sote.jpg",
@@ -150,6 +156,7 @@
       "manuelKartlar": [],
       "eslesenTarifler": [
         "tahin ekmeği (1 dilim)",
+        "köfte",
         "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
         "tahin ekmeği (1 dilim)",
         "tahin ekmeği (1 dilim)",
@@ -176,7 +183,6 @@
         "zeytin (5 adet)",
         "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )",
         "akşam (tercihen hava kararınca)",
-        "köfte",
         "tahin ekmeği (1 dilim)",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1tatlı kaşığı zeytinyağı)",
         "toz kollajen 1 ölçek",
@@ -252,11 +258,29 @@
         "yemeklerinize ve salatalara seviyorsanız sarımsak ekleyebilirsiniz.",
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
-      ]
+      ],
+      "ekNotlar": ""
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2025-10-19",
+      "bitis": "2025-10-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2025-10-11T07:00:22.658Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-11T10:27:46.041Z",
+  "sonGuncelleme": "2025-10-11T11:01:07.363Z",
   "githubKaydedildi": true
 }
